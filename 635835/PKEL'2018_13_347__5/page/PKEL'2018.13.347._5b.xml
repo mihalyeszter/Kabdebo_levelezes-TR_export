@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:36:53.533+01:00</Created>
+        <LastChange>2021-04-20T17:21:40.157+02:00</LastChange>
+        <TranskribusMetadata docId="635835" pageId="24864888" pageNr="2" tsid="56879028" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=DYLKVLJUFCJOKOMPYHUCEMIQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LBNYKSNRIHQYXDWXMGUGNATZ" imageId="19179831"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._5b.tif" imageWidth="3659" imageHeight="2609">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453598800" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617193696553_440"/>
+                <RegionRefIndexed index="1" regionRef="region_1617193751829_453"/>
+                <RegionRefIndexed index="2" regionRef="region_1617193794732_464"/>
+                <RegionRefIndexed index="3" regionRef="region_1617193879601_480"/>
+                <RegionRefIndexed index="4" regionRef="region_1617196982002_563"/>
+                <RegionRefIndexed index="5" regionRef="region_1617196993395_567"/>
+                <RegionRefIndexed index="6" regionRef="region_1617196997020_570"/>
+                <RegionRefIndexed index="7" regionRef="region_1617197001676_573"/>
+                <RegionRefIndexed index="8" regionRef="region_1617197006125_576"/>
+                <RegionRefIndexed index="9" regionRef="region_1617197035009_580"/>
+                <RegionRefIndexed index="10" regionRef="region_1617204872784_732"/>
+                <RegionRefIndexed index="11" regionRef="region_1617197039479_583"/>
+                <RegionRefIndexed index="12" regionRef="region_1617197345338_600"/>
+                <RegionRefIndexed index="13" regionRef="region_1617197352516_603"/>
+                <RegionRefIndexed index="14" regionRef="region_1617197388740_606"/>
+                <RegionRefIndexed index="15" regionRef="region_1617197392602_609"/>
+                <RegionRefIndexed index="16" regionRef="region_1617197397444_612"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617193696553_440" custom="readingOrder {index:0;}">
+            <Coords points="2003,1258 3467,1250 3510,1585 2018,1550"/>
+            <TextLine id="line_1617197480999_625" custom="readingOrder {index:0;} persName {offset:0; length:12;}">
+                <Coords points="2061,1268 3313,1273 3321,1551 2064,1522"/>
+                <Baseline points="2064,1517 3321,1546"/>
+                <TextEquiv>
+                    <Unicode>L. Cs. Szabó Esq.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L. Cs. Szabó Esq.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617193751829_453" custom="readingOrder {index:1;}">
+            <Coords points="2066,1574 3468,1574 3498,1788 2076,1794"/>
+            <TextLine id="line_1617197487130_630" custom="readingOrder {index:0;}">
+                <Coords points="2099,1578 3435,1610 3475,1766 2125,1769"/>
+                <Baseline points="2125,1764 3475,1761"/>
+                <TextEquiv>
+                    <Unicode>48, Gloucester Mews</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>48, Gloucester Mews</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617193794732_464" custom="readingOrder {index:2;}">
+            <Coords points="2338,1804 3501,1803 3513,1980 2341,1977"/>
+            <TextLine id="line_1617197492210_635" custom="readingOrder {index:0;} placeName {offset:6; length:6;}">
+                <Coords points="2407,1819 3362,1825 3374,1975 2409,1955"/>
+                <Baseline points="2409,1950 3374,1970"/>
+                <TextEquiv>
+                    <Unicode>W. 2. London</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>W. 2. London</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617193879601_480" custom="readingOrder {index:3;}">
+            <Coords points="2256,2021 3478,2023 3479,2258 2250,2253"/>
+            <TextLine id="line_1617197497974_640" custom="readingOrder {index:0;} placeName {offset:0; length:10;}">
+                <Coords points="2299,2055 3214,2043 3214,2228 2299,2216"/>
+                <Baseline points="2299,2211 3214,2223"/>
+                <TextEquiv>
+                    <Unicode>ING ETERRA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ING ETERRA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617196982002_563" custom="readingOrder {index:4;}">
+            <Coords points="124,905 1210,966 1242,1205 95,1205"/>
+            <TextLine id="line_1617197504329_645" custom="readingOrder {index:0;} persName {offset:0; length:13;}">
+                <Coords points="197,931 1178,986 1222,1209 159,1162"/>
+                <Baseline points="159,1157 1222,1204"/>
+                <TextEquiv>
+                    <Unicode>Kabdebó Tamás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kabdebó Tamás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617196993395_567" custom="readingOrder {index:5;}">
+            <Coords points="1295,920 1986,920 2003,1016 1309,1016"/>
+            <TextLine id="line_1617197509043_650" custom="readingOrder {index:0;} orgName {offset:0; length:15;}">
+                <Coords points="1329,955 1956,958 1956,1008 1329,1005"/>
+                <Baseline points="1329,1000 1956,1003"/>
+                <TextEquiv>
+                    <Unicode>Univ. of Guyana</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Univ. of Guyana</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617196997020_570" custom="readingOrder {index:6;}">
+            <Coords points="1446,1033 1881,1042 1896,1126 1443,1126"/>
+            <TextLine id="line_1617197512788_655" custom="readingOrder {index:0;}">
+                <Coords points="1476,1040 1821,1044 1837,1127 1475,1113"/>
+                <Baseline points="1486,1119 1837,1122"/>
+                <TextEquiv>
+                    <Unicode>30 X 84'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>30 X 84'</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197001676_573" custom="readingOrder {index:7;}">
+            <Coords points="1367,1126 1968,1152 1977,1231 1388,1231"/>
+            <TextLine id="line_1617197536610_661" custom="readingOrder {index:0;} placeName {offset:0; length:10;}">
+                <Coords points="1402,1143 1922,1128 1933,1197 1413,1206"/>
+                <Baseline points="1413,1201 1933,1192"/>
+                <TextEquiv>
+                    <Unicode>Georgetown</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Georgetown</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197006125_576" custom="readingOrder {index:8;}">
+            <Coords points="1518,1221 1936,1224 1977,1321 1515,1349"/>
+            <TextLine id="line_1617197541228_666" custom="readingOrder {index:0;} placeName {offset:0; length:6;}">
+                <Coords points="1573,1212 1954,1227 1959,1310 1594,1334"/>
+                <Baseline points="1570,1308 1959,1305"/>
+                <TextEquiv>
+                    <Unicode>Guyana</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Guyana</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197035009_580" custom="readingOrder {index:9;}">
+            <Coords points="130,1260 1753,1321 1776,1500 124,1474"/>
+            <TextLine id="line_1617198398979_671" custom="readingOrder {index:0;}">
+                <Coords points="168,1282 1286,1308 1309,1476 165,1438"/>
+                <Baseline points="165,1433 1309,1471"/>
+                <TextEquiv>
+                    <Unicode>Szeretettel ölel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szeretettel ölel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617204872784_732" custom="readingOrder {index:10;}">
+            <Coords points="272,1491 1826,1523 1849,1651 295,1651"/>
+            <TextLine id="line_1617198406006_676" custom="readingOrder {index:0;} persName {offset:0; length:18;}">
+                <Coords points="313,1503 1692,1535 1707,1670 351,1644"/>
+                <Baseline points="351,1639 1707,1665"/>
+                <TextEquiv>
+                    <Unicode>Landy - Löbl Dezső</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Landy - Löbl Dezső</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197039479_583" custom="readingOrder {index:11;}">
+            <Coords points="127,1646 2061,1678 2067,2032 136,1878"/>
+            <TextLine id="line_1617198421006_681" custom="readingOrder {index:0;} persName {offset:17; length:13;}">
+                <Coords points="165,1657 2000,1710 2052,1971 153,1836"/>
+                <Baseline points="153,1831 1951,1930"/>
+                <TextEquiv>
+                    <Unicode>Sok üdvözlettel: Cseredy Tamás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sok üdvözlettel: Cseredy Tamás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197345338_600" custom="readingOrder {index:12;}">
+            <Coords points="261,1899 1175,1930 1266,2183 124,2233"/>
+            <TextLine id="line_1617198426566_686" custom="readingOrder {index:0;} persName {offset:0; length:11;}">
+                <Coords points="261,1925 1178,1953 1237,2180 275,2218"/>
+                <Baseline points="330,2104 1190,2124"/>
+                <TextEquiv>
+                    <Unicode>Gáczer Imre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gáczer Imre</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197352516_603" custom="readingOrder {index:13;}">
+            <Coords points="1347,1837 1875,2070 1875,2241 1292,2241"/>
+            <TextLine id="line_1617198450190_693" custom="readingOrder {index:0;} gap {offset:0; length:0;}">
+                <Coords points="1384,1857 1827,2129 1823,2179 1315,2138"/>
+                <Baseline points="1315,2133 1823,2174"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197388740_606" custom="readingOrder {index:14;}">
+            <Coords points="176,2174 885,2340 885,2508 159,2508"/>
+            <TextLine id="line_1617198454735_698" custom="readingOrder {index:0;} persName {offset:0; length:14;}">
+                <Coords points="240,2200 772,2342 778,2489 200,2434"/>
+                <Baseline points="200,2429 778,2484"/>
+                <TextEquiv>
+                    <Unicode>Zágon Bertalan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zágon Bertalan</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197392602_609" custom="readingOrder {index:15;}">
+            <Coords points="891,2194 1907,2240 1893,2418 908,2426"/>
+            <TextLine id="line_1617198459110_703" custom="readingOrder {index:0;} persName {offset:0; length:14;}">
+                <Coords points="917,2211 1765,2249 1785,2396 929,2380"/>
+                <Baseline points="975,2397 1785,2391"/>
+                <TextEquiv>
+                    <Unicode>Hemerly György</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hemerly György</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617197397444_612" custom="readingOrder {index:16;}">
+            <Coords points="1039,2377 1654,2394 1663,2503 1056,2503"/>
+            <TextLine id="line_1617198463982_708" custom="readingOrder {index:0;} persName {offset:0; length:11;}">
+                <Coords points="1132,2383 1562,2388 1564,2501 1132,2495"/>
+                <Baseline points="1132,2490 1564,2496"/>
+                <TextEquiv>
+                    <Unicode>Tábori Pali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tábori Pali</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

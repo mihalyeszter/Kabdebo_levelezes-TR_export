@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:35:15.667+01:00</Created>
+        <LastChange>2021-04-21T09:32:46.079+02:00</LastChange>
+        <TranskribusMetadata docId="635803" pageId="24864811" pageNr="2" tsid="56897447" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=PMNHOWDISUQDKOCTWMOSLHAP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QCMERNYYODNTDDJYEXIMCLXZ" imageId="19179754"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._14b.tif" imageWidth="3184" imageHeight="4971">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453611215" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617266736090_372"/>
+                <RegionRefIndexed index="1" regionRef="region_1617266745799_375"/>
+                <RegionRefIndexed index="2" regionRef="region_1617266750308_378"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617266736090_372" custom="readingOrder {index:0;}">
+            <Coords points="259,117 2997,96 2997,3018 332,3142"/>
+            <TextLine id="line_1617267047861_500" custom="readingOrder {index:0;}">
+                <Coords points="369,208 2467,127 2543,400 387,375"/>
+                <Baseline points="387,370 2497,306"/>
+                <TextEquiv>
+                    <Unicode>késve, esti olvasmányként </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267052586_505" custom="readingOrder {index:1;} orgName {offset:22; length:12;}">
+                <Coords points="399,421 2898,326 2902,567 426,580"/>
+                <Baseline points="426,575 2903,511"/>
+                <TextEquiv>
+                    <Unicode>lapozgatni kezdtem az Új Látóhatár</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267056850_510" custom="readingOrder {index:2;}">
+                <Coords points="416,622 2795,594 2760,874 426,811"/>
+                <Baseline points="426,806 2694,759"/>
+                <TextEquiv>
+                    <Unicode>legutolsó számát melyből meg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267061101_515" custom="readingOrder {index:3;}">
+                <Coords points="399,861 2697,870 2757,1049 386,1111"/>
+                <Baseline points="460,1079 2741,1019"/>
+                <TextEquiv>
+                    <Unicode>tudtam, hogy a TERMÉSZET TE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267065489_520" custom="readingOrder {index:4;}">
+                <Coords points="429,1109 2868,1054 2880,1335 425,1301"/>
+                <Baseline points="481,1275 2865,1220"/>
+                <TextEquiv>
+                    <Unicode>VAGY - illetve az angol festők?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267069643_525" custom="readingOrder {index:5;} placeName {offset:0; length:13;}">
+                <Coords points="399,1348 2986,1323 2994,1596 408,1639"/>
+                <Baseline points="490,1613 2972,1489"/>
+                <TextEquiv>
+                    <Unicode>Manchesterben jó Gallériák vannak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267073520_530" custom="readingOrder {index:6;}">
+                <Coords points="383,1596 2612,1595 2655,1821 404,1890"/>
+                <Baseline points="494,1839 2626,1745"/>
+                <TextEquiv>
+                    <Unicode>sőt helybeli festők is, amit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267078197_535" custom="readingOrder {index:7;}">
+                <Coords points="371,1898 2797,1779 2817,2082 408,2189"/>
+                <Baseline points="460,2117 2762,1963"/>
+                <TextEquiv>
+                    <Unicode>igen csodálok: hogy inspirálhat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267082832_540" custom="readingOrder {index:8;}">
+                <Coords points="471,2156 2727,2035 2883,2349 506,2343"/>
+                <Baseline points="490,2283 2720,2211"/>
+                <TextEquiv>
+                    <Unicode>az állandó szürkeség festése?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267087692_545" custom="readingOrder {index:9;}">
+                <Coords points="411,2357 2966,2339 2945,2573 421,2616"/>
+                <Baseline points="490,2587 2907,2514"/>
+                <TextEquiv>
+                    <Unicode>De az angol csodálatos nép, talán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267092371_550" custom="readingOrder {index:10;} add {offset:4; length:1;} gap {offset:4; length:0;} textStyle {offset:33; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:34; length:1;}">
+                <Coords points="389,2591 2981,2573 2945,2791 484,2881"/>
+                <Baseline points="520,2792 2959,2728"/>
+                <TextEquiv>
+                    <Unicode>még a jelenlegi lassú polgárhaboruút</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617267096942_555" custom="readingOrder {index:11;} add {offset:16; length:1;} gap {offset:16; length:0;}">
+                <Coords points="379,2901 2730,2780 2634,2993 460,3083"/>
+                <Baseline points="460,3078 2634,2988"/>
+                <TextEquiv>
+                    <Unicode>és gazdasági válságot is túléli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>késve, esti olvasmányként &#xD;
+lapozgatni kezdtem az Új Látóhatár&#xD;
+legutolsó számát melyből meg¬&#xD;
+tudtam, hogy a TERMÉSZET TE&#xD;
+VAGY - illetve az angol festők?&#xD;
+Manchesterben jó Gallériák vannak&#xD;
+sőt helybeli festők is, amit&#xD;
+igen csodálok: hogy inspirálhat&#xD;
+az állandó szürkeség festése?&#xD;
+De az angol csodálatos nép, talán&#xD;
+még a jelenlegi lassú polgárhaboruút&#xD;
+és gazdasági válságot is túléli.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617266745799_375" custom="readingOrder {index:1;}">
+            <Coords points="827,3125 2934,3075 2920,3342 821,3428"/>
+            <TextLine id="line_1617267102168_560" custom="readingOrder {index:0;}">
+                <Coords points="881,3146 2856,3093 2861,3288 955,3378"/>
+                <Baseline points="955,3373 2861,3283"/>
+                <TextEquiv>
+                    <Unicode>Minden jót kíván, régi híved,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Minden jót kíván, régi híved,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617266750308_378" custom="readingOrder {index:2;}">
+            <Coords points="1318,3939 2769,3859 2730,3359 1259,3364"/>
+            <TextLine id="line_1617267107365_565" custom="readingOrder {index:0;} textStyle {offset:0; length:13;underlined:true; fontSize:0.0; kerning:0;} persName {offset:0; length:13;}">
+                <Coords points="1342,3406 2611,3370 2658,3846 1414,3879"/>
+                <Baseline points="1374,3625 2647,3595"/>
+                <TextEquiv>
+                    <Unicode>Kabdebó Tamás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kabdebó Tamás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

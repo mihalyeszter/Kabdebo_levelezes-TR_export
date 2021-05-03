@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._42</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3396' lry='4398'>
+			<graphic url='PKEL'2018.13.347._42a.tif' width='3396px' height='4398px'/>
+			<zone ulx='1990' uly='87' lrx='3266' lry='320' rendition='TextRegion' xml:id='facs_1_region_1617872418754_2814'>
+				<zone ulx='2034' uly='112' lrx='3120' lry='312' rendition='Line' xml:id='facs_1_line_1617872690822_2841'/>
+			</zone>
+			<zone ulx='2311' uly='302' lrx='2792' lry='420' rendition='TextRegion' xml:id='facs_1_region_1618161864241_4'>
+				<zone ulx='2321' uly='308' lrx='2783' lry='416' rendition='Line' xml:id='facs_1_line_1617872698868_2846'/>
+			</zone>
+			<zone ulx='2685' uly='460' lrx='3278' lry='932' rendition='TextRegion' xml:id='facs_1_region_1618328693864_65'>
+				<zone ulx='2702' uly='562' lrx='3272' lry='767' rendition='Line' xml:id='facs_1_line_1618328708447_68'/>
+			</zone>
+			<zone ulx='895' uly='426' lrx='2653' lry='893' rendition='TextRegion' xml:id='facs_1_region_1617872444954_2817'>
+				<zone ulx='961' uly='438' lrx='2614' lry='877' rendition='Line' xml:id='facs_1_line_1617872710999_2856'/>
+			</zone>
+			<zone ulx='299' uly='965' lrx='3237' lry='1617' rendition='TextRegion' xml:id='facs_1_region_1617872484616_2822'>
+				<zone ulx='1385' uly='1003' lrx='3204' lry='1352' rendition='Line' xml:id='facs_1_line_1617872704749_2851'/>
+				<zone ulx='370' uly='1371' lrx='2927' lry='1584' rendition='Line' xml:id='facs_1_line_1617872780410_2861'/>
+			</zone>
+			<zone ulx='326' uly='1636' lrx='3279' lry='3044' rendition='TextRegion' xml:id='facs_1_region_1617872520706_2826'>
+				<zone ulx='1334' uly='1654' lrx='3182' lry='1929' rendition='Line' xml:id='facs_1_line_1617872789595_2866'/>
+				<zone ulx='411' uly='1902' lrx='3168' lry='2166' rendition='Line' xml:id='facs_1_line_1617872809272_2871'/>
+				<zone ulx='381' uly='2172' lrx='3246' lry='2410' rendition='Line' xml:id='facs_1_line_1617872823367_2876'/>
+				<zone ulx='426' uly='2415' lrx='3084' lry='2681' rendition='Line' xml:id='facs_1_line_1617872828241_2881'/>
+				<zone ulx='415' uly='2704' lrx='3096' lry='2924' rendition='Line' xml:id='facs_1_line_1617872843845_2886'/>
+			</zone>
+			<zone ulx='905' uly='3073' lrx='2796' lry='3347' rendition='TextRegion' xml:id='facs_1_region_1617872600583_2832'>
+				<zone ulx='1014' uly='3087' lrx='2726' lry='3337' rendition='Line' xml:id='facs_1_line_1617872861059_2891'/>
+			</zone>
+			<zone ulx='1348' uly='3363' lrx='3080' lry='3956' rendition='TextRegion' xml:id='facs_1_region_1617872613633_2835'>
+				<zone ulx='1384' uly='3410' lrx='3027' lry='3914' rendition='Line' xml:id='facs_1_line_1617872881692_2896'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1617872418754_2814'>
+				<lb facs='#facs_1_line_1617872690822_2841' n='N001'/>49, Woodlawn Rd., 
+			</p>
+			<p facs='#facs_1_region_1618161864241_4'>
+				<lb facs='#facs_1_line_1617872698868_2846' n='N001'/>S. W. 6.
+			</p>
+			<p facs='#facs_1_region_1618328693864_65'>
+				<lb facs='#facs_1_line_1618328708447_68' n='N001'/>márc. 4-én
+			</p>
+			<p facs='#facs_1_region_1617872444954_2817'>
+				<lb facs='#facs_1_line_1617872710999_2856' n='N001'/>Kedves Laci bátyám,
+			</p>
+			<p facs='#facs_1_region_1617872484616_2822'>
+				<lb facs='#facs_1_line_1617872704749_2851' n='N001'/>Megdöbbenve hallottam
+				<lb facs='#facs_1_line_1617872780410_2861' n='N002'/>nagy veszteségedről ma reggel.
+			</p>
+			<p facs='#facs_1_region_1617872520706_2826'>
+				<lb facs='#facs_1_line_1617872789595_2866' n='N001'/>Kérlek, fogadd részvé¬
+				<lb facs='#facs_1_line_1617872809272_2871' n='N002'/>tem, s ha valamiben is segít¬
+				<lb facs='#facs_1_line_1617872823367_2876' n='N003'/>ségedre lehetek e nehéz napok¬
+				<lb facs='#facs_1_line_1617872828241_2881' n='N004'/>ban, bármilyen jellegű is legyen
+				<lb facs='#facs_1_line_1617872843845_2886' n='N005'/>az, szívesen rendelkezésedre állok.
+			</p>
+			<p facs='#facs_1_region_1617872600583_2832'>
+				<lb facs='#facs_1_line_1617872861059_2891' n='N001'/>Baráti üdvözlettel,
+			</p>
+			<p facs='#facs_1_region_1617872613633_2835'>
+				<lb facs='#facs_1_line_1617872881692_2896' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>Kabdebó Tamás</hi>
+			</p>
+		</body>
+	</text>
+</TEI>

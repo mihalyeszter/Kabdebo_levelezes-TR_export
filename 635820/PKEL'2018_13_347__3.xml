@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._3</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3653' lry='5062'>
+			<graphic url='PKEL'2018.13.347._3a.tif' width='3653px' height='5062px'/>
+			<zone ulx='730' uly='191' lrx='3553' lry='785' rendition='TextRegion' xml:id='facs_1_region_1616405869783_34'>
+				<zone ulx='790' uly='261' lrx='3519' lry='483' rendition='Line' xml:id='facs_1_line_1616407029079_280'/>
+			</zone>
+			<zone ulx='1201' uly='482' lrx='2509' lry='648' rendition='TextRegion' xml:id='facs_1_region_1616405703552_14'>
+				<zone ulx='1307' uly='511' lrx='2378' lry='633' rendition='Line' xml:id='facs_1_line_1616407072169_285'/>
+			</zone>
+			<zone ulx='1537' uly='656' lrx='2156' lry='740' rendition='TextRegion' xml:id='facs_1_region_1616405878364_37'>
+				<zone ulx='1567' uly='661' lrx='2096' lry='727' rendition='Line' xml:id='facs_1_line_1616407082386_290'/>
+			</zone>
+			<zone ulx='2407' uly='1237' lrx='3423' lry='1597' rendition='TextRegion' xml:id='facs_1_region_1616581948353_363'>
+				<zone ulx='2450' uly='1295' lrx='3327' lry='1539' rendition='Line' xml:id='facs_1_line_1617194341655_524'/>
+			</zone>
+			<zone ulx='805' uly='831' lrx='2355' lry='1653' rendition='TextRegion' xml:id='facs_1_region_1616405890881_43'>
+				<zone ulx='863' uly='883' lrx='2340' lry='1620' rendition='Line' xml:id='facs_1_line_1616659791622_10'/>
+			</zone>
+			<zone ulx='594' uly='1580' lrx='3550' lry='3407' rendition='TextRegion' xml:id='facs_1_region_1616425491789_547'>
+				<zone ulx='1788' uly='1602' lrx='3202' lry='2070' rendition='Line' xml:id='facs_1_line_1616425528570_551'/>
+				<zone ulx='870' uly='2024' lrx='3511' lry='2360' rendition='Line' xml:id='facs_1_line_1616425535375_556'/>
+				<zone ulx='774' uly='2323' lrx='3165' lry='2638' rendition='Line' xml:id='facs_1_line_1616425541051_561'/>
+				<zone ulx='850' uly='2595' lrx='3299' lry='2874' rendition='Line' xml:id='facs_1_line_1616425547103_566'/>
+				<zone ulx='887' uly='2854' lrx='3330' lry='3142' rendition='Line' xml:id='facs_1_line_1616425557663_571'/>
+				<zone ulx='810' uly='3106' lrx='3001' lry='3367' rendition='Line' xml:id='facs_1_line_1616425563490_576'/>
+			</zone>
+			<zone ulx='772' uly='3358' lrx='3210' lry='4042' rendition='TextRegion' xml:id='facs_1_region_1616425764420_598'>
+				<zone ulx='1872' uly='3369' lrx='3134' lry='3699' rendition='Line' xml:id='facs_1_line_1616425834720_609'/>
+				<zone ulx='858' uly='3525' lrx='1853' lry='4020' rendition='Line' xml:id='facs_1_line_1616425840426_614'/>
+			</zone>
+			<zone ulx='1646' uly='3890' lrx='3001' lry='4291' rendition='TextRegion' xml:id='facs_1_region_1616406800176_254'>
+				<zone ulx='1701' uly='3950' lrx='2961' lry='4278' rendition='Line' xml:id='facs_1_line_1616407209954_353'/>
+			</zone>
+			<zone ulx='1731' uly='4305' lrx='3503' lry='4838' rendition='TextRegion' xml:id='facs_1_region_1616406826360_260'>
+				<zone ulx='1812' uly='4334' lrx='3369' lry='4796' rendition='Line' xml:id='facs_1_line_1616407233518_358'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1616405869783_34'>
+				<lb facs='#facs_1_line_1616407029079_280' n='N001'/>University College London <hi rend='underlined:true; fontSize:0.0; kerning:0;'><add>Library</add></hi>.
+			</p>
+			<p facs='#facs_1_region_1616405703552_14'>
+				<lb facs='#facs_1_line_1616407072169_285' n='N001'/>Gower Street WCI
+			</p>
+			<p facs='#facs_1_region_1616405878364_37'>
+				<lb facs='#facs_1_line_1616407082386_290' n='N001'/>Euston 7050
+			</p>
+			<p facs='#facs_1_region_1616581948353_363'>
+				<lb facs='#facs_1_line_1617194341655_524' n='N001'/>1966. II. 4.
+			</p>
+			<p facs='#facs_1_region_1616405890881_43'>
+				<lb facs='#facs_1_line_1616659791622_10' n='N001'/>Kedves Bátyám,
+			</p>
+			<p facs='#facs_1_region_1616425491789_547'>
+				<lb facs='#facs_1_line_1616425528570_551' n='N001'/>Köszönet szép
+				<lb facs='#facs_1_line_1616425535375_556' n='N002'/>és okos Dante tanulmányodért.
+				<lb facs='#facs_1_line_1616425541051_561' n='N003'/>Tekintettel arra, hogy a 
+				<lb facs='#facs_1_line_1616425547103_566' n='N004'/>könyvtár olasz specialistája
+				<lb facs='#facs_1_line_1616425557663_571' n='N005'/>én volnék <hi rend='underlined:true; fontSize:0.0; kerning:0;'>kérlek</hi> küldj
+				<lb facs='#facs_1_line_1616425563490_576' n='N006'/>né<hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>g</hi>gy példányt számunkra is.
+			</p>
+			<p facs='#facs_1_region_1616425764420_598'>
+				<lb facs='#facs_1_line_1616425834720_609' n='N001'/>Ha pénzbe kerül
+				<lb facs='#facs_1_line_1616425840426_614' n='N002'/>kifizetjük.
+			</p>
+			<p facs='#facs_1_region_1616406800176_254'>
+				<lb facs='#facs_1_line_1616407209954_353' n='N001'/>Üdvözlettel,
+			</p>
+			<p facs='#facs_1_region_1616406826360_260'>
+				<lb facs='#facs_1_line_1616407233518_358' n='N001'/>Kabdebó Tamás
+			</p>
+		</body>
+	</text>
+</TEI>

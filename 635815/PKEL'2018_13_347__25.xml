@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._25</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3405' lry='2207'>
+			<graphic url='PKEL'2018.13.347._25a.tif' width='3405px' height='2207px'/>
+			<zone ulx='817' uly='787' lrx='2139' lry='1044' rendition='TextRegion' xml:id='facs_1_region_1619099282710_1816'>
+				<zone ulx='820' uly='793' lrx='2128' lry='1033' rendition='Line' xml:id='facs_1_line_1619099282830_1819'/>
+			</zone>
+			<zone ulx='958' uly='1040' lrx='3205' lry='1297' rendition='TextRegion' xml:id='facs_1_region_1619099290433_1824'>
+				<zone ulx='968' uly='1053' lrx='2274' lry='1291' rendition='Line' xml:id='facs_1_line_1619099290502_1827'/>
+				<zone ulx='2278' uly='1051' lrx='2639' lry='1180' rendition='Line' xml:id='facs_1_line_1619099828765_1872'/>
+				<zone ulx='2748' uly='1068' lrx='3190' lry='1279' rendition='Line' xml:id='facs_1_line_1619099835163_1877'/>
+			</zone>
+			<zone ulx='1082' uly='1239' lrx='2232' lry='1430' rendition='TextRegion' xml:id='facs_1_region_1619099305007_1832'>
+				<zone ulx='1095' uly='1248' lrx='2226' lry='1424' rendition='Line' xml:id='facs_1_line_1619099305085_1835'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3386' lry='2207'>
+			<graphic url='PKEL'2018.13.347._25b.tif' width='3386px' height='2207px'/>
+			<zone ulx='1754' uly='73' lrx='3041' lry='266' rendition='TextRegion' xml:id='facs_2_region_1617641265996_1037'>
+				<zone ulx='1770' uly='89' lrx='2911' lry='266' rendition='Line' xml:id='facs_2_line_1617641334977_1059'/>
+			</zone>
+			<zone ulx='109' uly='57' lrx='1644' lry='271' rendition='TextRegion' xml:id='facs_2_region_1617641231627_1034'>
+				<zone ulx='185' uly='84' lrx='1555' lry='268' rendition='Line' xml:id='facs_2_line_1617641330304_1054'/>
+			</zone>
+			<zone ulx='48' uly='270' lrx='3323' lry='869' rendition='TextRegion' xml:id='facs_2_region_1617641400204_1088'>
+				<zone ulx='61' uly='282' lrx='3261' lry='420' rendition='Line' xml:id='facs_2_line_1617641437395_1097'/>
+				<zone ulx='112' uly='415' lrx='3251' lry='578' rendition='Line' xml:id='facs_2_line_1617641442260_1102'/>
+				<zone ulx='96' uly='580' lrx='3310' lry='741' rendition='Line' xml:id='facs_2_line_1617641448765_1107'/>
+				<zone ulx='90' uly='724' lrx='1590' lry='861' rendition='Line' xml:id='facs_2_line_1617641453058_1112'/>
+			</zone>
+			<zone ulx='66' uly='835' lrx='3323' lry='1982' rendition='TextRegion' xml:id='facs_2_region_1617641406407_1091'>
+				<zone ulx='126' uly='860' lrx='3215' lry='985' rendition='Line' xml:id='facs_2_line_1617641458377_1117'/>
+				<zone ulx='115' uly='981' lrx='3218' lry='1133' rendition='Line' xml:id='facs_2_line_1617641463000_1122'/>
+				<zone ulx='104' uly='1132' lrx='3310' lry='1289' rendition='Line' xml:id='facs_2_line_1617641468163_1127'/>
+				<zone ulx='112' uly='1258' lrx='3283' lry='1393' rendition='Line' xml:id='facs_2_line_1617641474266_1132'/>
+				<zone ulx='113' uly='1386' lrx='3203' lry='1549' rendition='Line' xml:id='facs_2_line_1617641494756_1142'/>
+				<zone ulx='88' uly='1531' lrx='3173' lry='1697' rendition='Line' xml:id='facs_2_line_1617641488290_1137'/>
+				<zone ulx='109' uly='1651' lrx='3246' lry='1834' rendition='Line' xml:id='facs_2_line_1617641500295_1147'/>
+				<zone ulx='115' uly='1822' lrx='809' lry='1949' rendition='Line' xml:id='facs_2_line_1617641504265_1152'/>
+			</zone>
+			<zone ulx='1029' uly='1853' lrx='1706' lry='2071' rendition='TextRegion' xml:id='facs_2_region_1617641277684_1043'>
+				<zone ulx='1050' uly='1862' lrx='1697' lry='2065' rendition='Line' xml:id='facs_2_line_1617641507437_1157'/>
+			</zone>
+			<zone ulx='1759' uly='1870' lrx='2650' lry='2141' rendition='TextRegion' xml:id='facs_2_region_1617641281652_1046'>
+				<zone ulx='1776' uly='1881' lrx='2595' lry='2137' rendition='Line' xml:id='facs_2_line_1617641511548_1162'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1619099282710_1816'>
+				<lb facs='#facs_1_line_1619099282830_1819' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1619099290433_1824'>
+				<lb facs='#facs_1_line_1619099290502_1827' n='N001'/>
+				<lb facs='#facs_1_line_1619099828765_1872' n='N002'/>
+				<lb facs='#facs_1_line_1619099835163_1877' n='N003'/>
+			</p>
+			<p facs='#facs_1_region_1619099305007_1832'>
+				<lb facs='#facs_1_line_1619099305085_1835' n='N001'/>
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1617641265996_1037'>
+				<lb facs='#facs_2_line_1617641334977_1059' n='N001'/>
+			</p>
+			<p facs='#facs_2_region_1617641231627_1034'>
+				<lb facs='#facs_2_line_1617641330304_1054' n='N001'/>
+			</p>
+			<p facs='#facs_2_region_1617641400204_1088'>
+				<lb facs='#facs_2_line_1617641437395_1097' n='N001'/>
+				<lb facs='#facs_2_line_1617641442260_1102' n='N002'/>
+				<lb facs='#facs_2_line_1617641448765_1107' n='N003'/>
+				<lb facs='#facs_2_line_1617641453058_1112' n='N004'/>
+			</p>
+			<p facs='#facs_2_region_1617641406407_1091'>
+				<lb facs='#facs_2_line_1617641458377_1117' n='N001'/>
+				<lb facs='#facs_2_line_1617641463000_1122' n='N002'/>
+				<lb facs='#facs_2_line_1617641468163_1127' n='N003'/>
+				<lb facs='#facs_2_line_1617641474266_1132' n='N004'/>
+				<lb facs='#facs_2_line_1617641494756_1142' n='N005'/>
+				<lb facs='#facs_2_line_1617641488290_1137' n='N006'/>
+				<lb facs='#facs_2_line_1617641500295_1147' n='N007'/>
+				<lb facs='#facs_2_line_1617641504265_1152' n='N008'/>
+			</p>
+			<p facs='#facs_2_region_1617641277684_1043'>
+				<lb facs='#facs_2_line_1617641507437_1157' n='N001'/>
+			</p>
+			<p facs='#facs_2_region_1617641281652_1046'>
+				<lb facs='#facs_2_line_1617641511548_1162' n='N001'/>
+			</p>
+		</body>
+	</text>
+</TEI>

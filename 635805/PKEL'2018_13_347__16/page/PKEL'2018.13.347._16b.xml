@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:35:26.370+01:00</Created>
+        <LastChange>2021-04-21T09:41:33.359+02:00</LastChange>
+        <TranskribusMetadata docId="635805" pageId="24864818" pageNr="2" tsid="56897552" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=GVIYQRJKRPLLOULTKBADIXFW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IXTSVFBISDGXCIZFFUAPLBOQ" imageId="19179761"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._16b.tif" imageWidth="3185" imageHeight="4999">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453581028" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617282672665_657"/>
+                <RegionRefIndexed index="1" regionRef="region_1617282681939_660"/>
+                <RegionRefIndexed index="2" regionRef="region_1617282698215_665"/>
+                <RegionRefIndexed index="3" regionRef="region_1617282702534_673"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617282672665_657" custom="readingOrder {index:0;}">
+            <Coords points="326,137 2910,137 2910,2193 326,2193"/>
+            <TextLine id="line_1617282725736_681" custom="readingOrder {index:0;} persName {offset:0; length:10;}">
+                <Coords points="503,187 2734,150 2732,452 501,489"/>
+                <Baseline points="495,406 2726,369"/>
+                <TextEquiv>
+                    <Unicode>Czigánnyal már beszéltem erről,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282731490_686" custom="readingOrder {index:1;} orgName {offset:17; length:14;}">
+                <Coords points="360,489 2833,452 2828,682 355,719"/>
+                <Baseline points="358,638 2831,601"/>
+                <TextEquiv>
+                    <Unicode>ő mondta, hogy a Szepsi Csombort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282738578_691" custom="readingOrder {index:2;}">
+                <Coords points="363,722 2790,693 2789,879 363,889"/>
+                <Baseline points="363,827 2789,817"/>
+                <TextEquiv>
+                    <Unicode>érdekli ez a vállalkozás, mely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282743251_696" custom="readingOrder {index:3;}">
+                <Coords points="406,897 2847,892 2847,1066 406,1071"/>
+                <Baseline points="406,1033 2847,1028"/>
+                <TextEquiv>
+                    <Unicode>kb 160 oldalas, tehát kicsi és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282748312_701" custom="readingOrder {index:4;}">
+                <Coords points="442,1076 2873,1076 2873,1276 442,1276"/>
+                <Baseline points="442,1223 2873,1223"/>
+                <TextEquiv>
+                    <Unicode>könnyen kezelhető és bizonyára</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282754249_706" custom="readingOrder {index:5;} add {offset:20; length:1;} gap {offset:20; length:0;}">
+                <Coords points="453,1289 2847,1278 2847,1491 453,1502"/>
+                <Baseline points="453,1434 2847,1423"/>
+                <TextEquiv>
+                    <Unicode>jó hírverő. Mindenesetre így</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282760410_711" custom="readingOrder {index:6;}">
+                <Coords points="549,1514 2468,1493 2459,1697 540,1718"/>
+                <Baseline points="543,1645 2462,1624"/>
+                <TextEquiv>
+                    <Unicode>is, szerényen, a legjobb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282770309_716" custom="readingOrder {index:7;} title {offset:20; length:9;}">
+                <Coords points="476,1733 2686,1717 2686,1931 476,1947"/>
+                <Baseline points="479,1856 2689,1840"/>
+                <TextEquiv>
+                    <Unicode>angol-nyelvű magyar antológia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282775028_721" custom="readingOrder {index:8;}">
+                <Coords points="541,1956 1248,1967 1244,2198 537,2187"/>
+                <Baseline points="537,2098 1244,2109"/>
+                <TextEquiv>
+                    <Unicode>eleddig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Czigánnyal már beszéltem erről,&#xD;
+ő mondta, hogy a Szepsi Csombort&#xD;
+érdekli ez a vállalkozás, mely&#xD;
+kb 160 oldalas, tehát kicsi és&#xD;
+könnyen kezelhető és bizonyára&#xD;
+jó hírverő. Mindenesetre így&#xD;
+is, szerényen, a legjobb&#xD;
+angol-nyelvű magyar antológia&#xD;
+eleddig.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617282681939_660" custom="readingOrder {index:1;}">
+            <Coords points="2650,2198 453,2198 453,3685 2650,3685"/>
+            <TextLine id="line_1617282781994_726" custom="readingOrder {index:0;}">
+                <Coords points="989,2204 2639,2202 2631,2444 991,2491"/>
+                <Baseline points="991,2430 2631,2383"/>
+                <TextEquiv>
+                    <Unicode>Látod, még mindig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282788333_731" custom="readingOrder {index:1;} add {offset:7; length:1;} gap {offset:7; length:0;}">
+                <Coords points="467,2482 2640,2466 2631,2646 458,2662"/>
+                <Baseline points="458,2615 2631,2599"/>
+                <TextEquiv>
+                    <Unicode>nem adom fel a harcot,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282795477_736" custom="readingOrder {index:2;}">
+                <Coords points="493,2675 2650,2653 2654,2877 487,2850"/>
+                <Baseline points="490,2800 2647,2778"/>
+                <TextEquiv>
+                    <Unicode>DUM SPIRO SPERO, sőt egy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282801801_741" custom="readingOrder {index:3;} title {offset:21; length:4;}">
+                <Coords points="482,2854 2631,2890 2626,3060 479,3071"/>
+                <Baseline points="479,3000 2626,2989"/>
+                <TextEquiv>
+                    <Unicode>tanulmányt is írok a nagy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282807885_746" custom="readingOrder {index:4;} title {offset:0; length:9;}">
+                <Coords points="536,3069 2624,3074 2615,3293 527,3288"/>
+                <Baseline points="527,3211 2615,3216"/>
+                <TextEquiv>
+                    <Unicode>antológia történetéről. (Talán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282814090_751" custom="readingOrder {index:5;}">
+                <Coords points="464,3319 2378,3303 2372,3453 458,3469"/>
+                <Baseline points="458,3443 2372,3427"/>
+                <TextEquiv>
+                    <Unicode>nem marad mindez tisztes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617282819422_756" custom="readingOrder {index:6;}">
+                <Coords points="537,3479 1397,3463 1390,3667 529,3666"/>
+                <Baseline points="532,3601 1392,3585"/>
+                <TextEquiv>
+                    <Unicode>monománia.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Látod, még mindig&#xD;
+nem adom fel a harcot,&#xD;
+DUM SPIRO SPERO, sőt egy&#xD;
+tanulmányt is írok a nagy&#xD;
+antológia történetéről. (Talán&#xD;
+nem marad mindez tisztes &#xD;
+monománia.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617282698215_665" custom="readingOrder {index:2;}">
+            <Coords points="1228,3722 1225,3992 2485,3992 2488,3722"/>
+            <TextLine id="line_1617282698266_668" custom="readingOrder {index:0;}">
+                <Coords points="1228,3725 2488,3735 2488,3987 1228,3977"/>
+                <Baseline points="1228,3902 2488,3912"/>
+                <TextEquiv>
+                    <Unicode>Régi jó híved,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Régi jó híved,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617282702534_673" custom="readingOrder {index:3;}">
+            <Coords points="1235,4092 1223,4702 2609,4705 2621,4095"/>
+            <TextLine id="line_1617282702576_676" custom="readingOrder {index:0;} textStyle {offset:0; length:5;underlined:true; fontSize:0.0; kerning:0;} persName {offset:0; length:5;}">
+                <Coords points="1272,4101 2618,4168 2593,4693 1247,4626"/>
+                <Baseline points="1492,4339 2610,4397"/>
+                <TextEquiv>
+                    <Unicode>Tamás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tamás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

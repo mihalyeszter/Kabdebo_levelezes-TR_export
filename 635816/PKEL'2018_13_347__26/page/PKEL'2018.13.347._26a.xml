@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:35:56.906+01:00</Created>
+        <LastChange>2021-04-21T09:48:11.181+02:00</LastChange>
+        <TranskribusMetadata docId="635816" pageId="24864844" pageNr="1" tsid="56897660" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=XMCFZPIHSRRPVAXYCPZNSBHW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QZYAYWQYGYQZMNGXTDGJGFCE" imageId="19179787"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._26a.tif" imageWidth="3400" imageHeight="2187">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453614455" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617642091524_1265"/>
+                <RegionRefIndexed index="1" regionRef="region_1617642095911_1268"/>
+                <RegionRefIndexed index="2" regionRef="region_1617642099471_1271"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617642091524_1265" custom="readingOrder {index:0;}">
+            <Coords points="691,624 2805,686 2778,1013 708,1013"/>
+            <TextLine id="line_1617642133276_1277" custom="readingOrder {index:0;}">
+                <Coords points="810,659 2432,700 2543,1008 770,923"/>
+                <Baseline points="770,918 2543,986"/>
+                <TextEquiv>
+                    <Unicode>L. Cs. Szabó Esq.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L. Cs. Szabó Esq.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617642095911_1268" custom="readingOrder {index:1;}">
+            <Coords points="856,1443 2824,1400 2878,1035 845,1032"/>
+            <TextLine id="line_1617642137088_1282" custom="readingOrder {index:0;}">
+                <Coords points="913,1078 2767,1094 2778,1370 945,1416"/>
+                <Baseline points="951,1283 2772,1324"/>
+                <TextEquiv>
+                    <Unicode>48, Gloucester Mews</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>48, Gloucester Mews</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617642099471_1271" custom="readingOrder {index:2;}">
+            <Coords points="991,1737 2732,1727 2716,1467 1005,1467"/>
+            <TextLine id="line_1617642141131_1287" custom="readingOrder {index:0;}">
+                <Coords points="1010,1486 2497,1510 2470,1691 1029,1686"/>
+                <Baseline points="1029,1681 2470,1686"/>
+                <TextEquiv>
+                    <Unicode>London W 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>London W 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

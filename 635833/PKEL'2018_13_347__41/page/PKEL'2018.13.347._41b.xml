@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:36:47.925+01:00</Created>
+        <LastChange>2021-04-26T10:21:56.896+02:00</LastChange>
+        <TranskribusMetadata docId="635833" pageId="24864884" pageNr="2" tsid="57174367" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=CGEZQCBCDGBNJVNFUXEUUFHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MHNCAOTAZNVSVGELVKMTLUJY" imageId="19179827"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._41b.tif" imageWidth="3396" imageHeight="4394">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453623680" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617816569722_2228"/>
+                <RegionRefIndexed index="1" regionRef="region_1617816577513_2231"/>
+                <RegionRefIndexed index="2" regionRef="region_1617816583896_2234"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617816569722_2228" custom="readingOrder {index:0;}">
+            <Coords points="251,122 3220,139 3228,1242 274,1242"/>
+            <TextLine id="line_1617816625102_2240" custom="readingOrder {index:0;}">
+                <Coords points="403,138 3200,147 3205,413 369,430"/>
+                <Baseline points="369,407 3202,364"/>
+                <TextEquiv>
+                    <Unicode>mondta neki, hogy a "közeljövőben"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816631779_2245" custom="readingOrder {index:1;} add {offset:12; length:1;} gap {offset:12; length:0;} comment {offset:15; length:5;comment:vázlat;}">
+                <Coords points="426,444 3100,416 3084,662 418,674"/>
+                <Baseline points="418,651 3084,639"/>
+                <TextEquiv>
+                    <Unicode>küldi a kötet "dummy" példányát,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816636175_2250" custom="readingOrder {index:2;} add {offset:26; length:1;} gap {offset:26; length:0;}">
+                <Coords points="380,685 3010,696 2995,933 373,945"/>
+                <Baseline points="373,878 2995,866"/>
+                <TextEquiv>
+                    <Unicode>s akkor árban is megállapodnak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816640545_2255" custom="readingOrder {index:3;} add {offset:21; length:1;} gap {offset:21; length:0;}">
+                <Coords points="378,953 3163,956 3165,1231 369,1223"/>
+                <Baseline points="369,1114 3165,1122"/>
+                <TextEquiv>
+                    <Unicode>"Magari", mondom én, az olasszal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mondta neki, hogy a "közeljövőben"&#xD;
+küldi a kötet "dummy" példányát,&#xD;
+s akkor árban is megállapodnak.&#xD;
+"Magari", mondom én, az olasszal.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617816577513_2231" custom="readingOrder {index:1;}">
+            <Coords points="361,1246 3043,1249 3056,2088 366,2088"/>
+            <TextLine id="line_1617816645743_2260" custom="readingOrder {index:0;}">
+                <Coords points="1043,1265 2911,1269 2884,1521 1031,1512"/>
+                <Baseline points="1042,1426 2881,1464"/>
+                <TextEquiv>
+                    <Unicode>Jó munkát, javulást,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816650108_2265" custom="readingOrder {index:1;}">
+                <Coords points="465,1528 2823,1534 2812,1787 477,1794"/>
+                <Baseline points="473,1688 2812,1711"/>
+                <TextEquiv>
+                    <Unicode>Szép Karácsonyt és boldogabb </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816665085_2270" custom="readingOrder {index:2;}">
+                <Coords points="485,1811 2190,1814 2190,2057 439,2021"/>
+                <Baseline points="465,1932 2192,1962"/>
+                <TextEquiv>
+                    <Unicode>új esztendőt kívánok,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jó munkát, javulást,&#xD;
+Szép Karácsonyt és boldogabb &#xD;
+új esztendőt kívánok,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617816583896_2234" custom="readingOrder {index:2;}">
+            <Coords points="1452,2103 2836,2130 2840,2508 1446,2508"/>
+            <TextLine id="line_1617816669292_2275" custom="readingOrder {index:0;} textStyle {offset:0; length:5;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1679,2122 2588,2145 2628,2479 1656,2456"/>
+                <Baseline points="1660,2324 2603,2340"/>
+                <TextEquiv>
+                    <Unicode>Tamás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tamás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

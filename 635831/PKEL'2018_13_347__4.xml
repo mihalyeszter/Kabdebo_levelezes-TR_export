@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._4</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3672' lry='5080'>
+			<graphic url='PKEL'2018.13.347._4a.tif' width='3672px' height='5080px'/>
+			<zone ulx='1066' uly='347' lrx='2818' lry='568' rendition='TextRegion' xml:id='facs_1_region_1616485737887_8'>
+				<zone ulx='1102' uly='397' lrx='2707' lry='591' rendition='Line' xml:id='facs_1_line_1616486152010_69'/>
+			</zone>
+			<zone ulx='1036' uly='554' lrx='2770' lry='747' rendition='TextRegion' xml:id='facs_1_region_1616485743498_11'>
+				<zone ulx='1143' uly='573' lrx='2641' lry='726' rendition='Line' xml:id='facs_1_line_1616486210949_82'/>
+			</zone>
+			<zone ulx='1044' uly='683' lrx='2822' lry='960' rendition='TextRegion' xml:id='facs_1_region_1616485748340_14'>
+				<zone ulx='1107' uly='736' lrx='2666' lry='900' rendition='Line' xml:id='facs_1_line_1616486261207_87'/>
+			</zone>
+			<zone ulx='750' uly='1377' lrx='2419' lry='1953' rendition='TextRegion' xml:id='facs_1_region_1616485787418_17'>
+				<zone ulx='907' uly='1468' lrx='2389' lry='1918' rendition='Line' xml:id='facs_1_line_1616486279387_92'/>
+			</zone>
+			<zone ulx='2621' uly='1400' lrx='3568' lry='1859' rendition='TextRegion' xml:id='facs_1_region_1616485792341_20'>
+				<zone ulx='2661' uly='1448' lrx='3551' lry='1745' rendition='Line' xml:id='facs_1_line_1616486300317_97'/>
+			</zone>
+			<zone ulx='447' uly='1920' lrx='3485' lry='2882' rendition='TextRegion' xml:id='facs_1_region_1616485937896_45'>
+				<zone ulx='1486' uly='1951' lrx='3164' lry='2313' rendition='Line' xml:id='facs_1_line_1616486305492_102'/>
+				<zone ulx='511' uly='2259' lrx='3330' lry='2621' rendition='Line' xml:id='facs_1_line_1616486311663_107'/>
+				<zone ulx='552' uly='2551' lrx='2087' lry='2819' rendition='Line' xml:id='facs_1_line_1616486336548_112'/>
+			</zone>
+			<zone ulx='546' uly='2704' lrx='3556' lry='3545' rendition='TextRegion' xml:id='facs_1_region_1616485944504_48'>
+				<zone ulx='1401' uly='2770' lrx='3333' lry='3115' rendition='Line' xml:id='facs_1_line_1616486341729_117'/>
+				<zone ulx='619' uly='3062' lrx='3511' lry='3407' rendition='Line' xml:id='facs_1_line_1616486347837_122'/>
+			</zone>
+			<zone ulx='1457' uly='3387' lrx='2744' lry='3816' rendition='TextRegion' xml:id='facs_1_region_1616485957441_51'>
+				<zone ulx='1544' uly='3430' lrx='2639' lry='3783' rendition='Line' xml:id='facs_1_line_1616486352227_127'/>
+			</zone>
+			<zone ulx='1623' uly='3796' lrx='3363' lry='4537' rendition='TextRegion' xml:id='facs_1_region_1616485961417_54'>
+				<zone ulx='1734' uly='3862' lrx='3176' lry='4489' rendition='Line' xml:id='facs_1_line_1616486364372_132'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1616485737887_8'>
+				<lb facs='#facs_1_line_1616486152010_69' n='N001'/><persName>T. Kabdebo</persName> BA, ALA
+			</p>
+			<p facs='#facs_1_region_1616485743498_11'>
+				<lb facs='#facs_1_line_1616486210949_82' n='N001'/>49 WOODLAWN RD
+			</p>
+			<p facs='#facs_1_region_1616485748340_14'>
+				<lb facs='#facs_1_line_1616486261207_87' n='N001'/><placeName>LONDON</placeName> SW 6
+			</p>
+			<p facs='#facs_1_region_1616485787418_17'>
+				<lb facs='#facs_1_line_1616486279387_92' n='N001'/>Kedves Bátyám,
+			</p>
+			<p facs='#facs_1_region_1616485792341_20'>
+				<lb facs='#facs_1_line_1616486300317_97' n='N001'/><date month='0' year='0' day='0'>1966. jún. 8.</date>
+			</p>
+			<p facs='#facs_1_region_1616485937896_45'>
+				<lb facs='#facs_1_line_1616486305492_102' n='N001'/>Írtam egy könyvet.
+				<lb facs='#facs_1_line_1616486311663_107' n='N002'/>Van-e kedved és időd elolvasni
+				<lb facs='#facs_1_line_1616486336548_112' n='N003'/>a kéziratot most?
+			</p>
+			<p facs='#facs_1_region_1616485944504_48'>
+				<lb facs='#facs_1_line_1616486341729_117' n='N001'/>Ha igen, kérlek add
+				<lb facs='#facs_1_line_1616486347837_122' n='N002'/>tudtomra s elküldöm. 160 oldal az egész.
+			</p>
+			<p facs='#facs_1_region_1616485957441_51'>
+				<lb facs='#facs_1_line_1616486352227_127' n='N001'/>Tisztelettel,
+			</p>
+			<p facs='#facs_1_region_1616485961417_54'>
+				<lb facs='#facs_1_line_1616486364372_132' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'><persName>Kabdebó Tamás</persName></hi>
+			</p>
+		</body>
+	</text>
+</TEI>

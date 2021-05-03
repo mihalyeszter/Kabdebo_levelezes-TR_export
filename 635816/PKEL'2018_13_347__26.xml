@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._26</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3400' lry='2187'>
+			<graphic url='PKEL'2018.13.347._26a.tif' width='3400px' height='2187px'/>
+			<zone ulx='691' uly='624' lrx='2805' lry='1013' rendition='TextRegion' xml:id='facs_1_region_1617642091524_1265'>
+				<zone ulx='770' uly='659' lrx='2543' lry='1008' rendition='Line' xml:id='facs_1_line_1617642133276_1277'/>
+			</zone>
+			<zone ulx='845' uly='1032' lrx='2878' lry='1443' rendition='TextRegion' xml:id='facs_1_region_1617642095911_1268'>
+				<zone ulx='913' uly='1078' lrx='2778' lry='1416' rendition='Line' xml:id='facs_1_line_1617642137088_1282'/>
+			</zone>
+			<zone ulx='991' uly='1467' lrx='2732' lry='1737' rendition='TextRegion' xml:id='facs_1_region_1617642099471_1271'>
+				<zone ulx='1010' uly='1486' lrx='2497' lry='1691' rendition='Line' xml:id='facs_1_line_1617642141131_1287'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3404' lry='2191'>
+			<graphic url='PKEL'2018.13.347._26b.tif' width='3404px' height='2191px'/>
+			<zone ulx='1967' uly='62' lrx='3072' lry='251' rendition='TextRegion' xml:id='facs_2_region_1617642235044_1302'>
+				<zone ulx='2018' uly='78' lrx='2994' lry='229' rendition='Line' xml:id='facs_2_line_1617642338654_1319'/>
+			</zone>
+			<zone ulx='124' uly='81' lrx='3335' lry='1908' rendition='TextRegion' xml:id='facs_2_region_1617642248953_1305'>
+				<zone ulx='254' uly='108' lrx='1902' lry='264' rendition='Line' xml:id='facs_2_line_1617642343181_1324'/>
+				<zone ulx='216' uly='272' lrx='3256' lry='481' rendition='Line' xml:id='facs_2_line_1617642348706_1329'/>
+				<zone ulx='216' uly='410' lrx='3240' lry='656' rendition='Line' xml:id='facs_2_line_1617642353372_1334'/>
+				<zone ulx='232' uly='632' lrx='3229' lry='832' rendition='Line' xml:id='facs_2_line_1617642360038_1339'/>
+				<zone ulx='213' uly='805' lrx='3191' lry='1010' rendition='Line' xml:id='facs_2_line_1617642364872_1344'/>
+				<zone ulx='229' uly='972' lrx='3172' lry='1191' rendition='Line' xml:id='facs_2_line_1617642369995_1349'/>
+				<zone ulx='208' uly='1178' lrx='3308' lry='1413' rendition='Line' xml:id='facs_2_line_1617642374189_1354'/>
+				<zone ulx='207' uly='1344' lrx='3278' lry='1600' rendition='Line' xml:id='facs_2_line_1617642379049_1359'/>
+				<zone ulx='240' uly='1522' lrx='3313' lry='1692' rendition='Line' xml:id='facs_2_line_1617642383785_1364'/>
+				<zone ulx='153' uly='1671' lrx='3289' lry='1895' rendition='Line' xml:id='facs_2_line_1617642388336_1369'/>
+			</zone>
+			<zone ulx='1670' uly='1897' lrx='2283' lry='2067' rendition='TextRegion' xml:id='facs_2_region_1617642251948_1308'>
+				<zone ulx='1688' uly='1898' lrx='2224' lry='2032' rendition='Line' xml:id='facs_2_line_1617642392292_1374'/>
+			</zone>
+			<zone ulx='2362' uly='1894' lrx='3213' lry='2121' rendition='TextRegion' xml:id='facs_2_region_1617642255704_1311'>
+				<zone ulx='2383' uly='1894' lrx='3083' lry='2072' rendition='Line' xml:id='facs_2_line_1617642402695_1379'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1617642091524_1265'>
+				<lb facs='#facs_1_line_1617642133276_1277' n='N001'/>L. Cs. Szabó Esq.
+			</p>
+			<p facs='#facs_1_region_1617642095911_1268'>
+				<lb facs='#facs_1_line_1617642137088_1282' n='N001'/>48, Gloucester Mews
+			</p>
+			<p facs='#facs_1_region_1617642099471_1271'>
+				<lb facs='#facs_1_line_1617642141131_1287' n='N001'/>London W 2
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1617642235044_1302'>
+				<lb facs='#facs_2_line_1617642338654_1319' n='N001'/><date month='0' year='0' day='0'>1977 jún 13-án</date>
+			</p>
+			<p facs='#facs_2_region_1617642248953_1305'>
+				<lb facs='#facs_2_line_1617642343181_1324' n='N001'/><persName>Laci bácsi</persName>, nem tudom
+				<lb facs='#facs_2_line_1617642348706_1329' n='N002'/><placeName>Svájc</placeName>ban soggiornó-zol-e (még); telefonod
+				<lb facs='#facs_2_line_1617642353372_1334' n='N003'/>nem felelt, kerestelek többször. Szükségem
+				<lb facs='#facs_2_line_1617642360038_1339' n='N004'/>lenne egy <hi rend='underlined:true; fontSize:0.0; kerning:0;'>Beszélgetés</hi>ek kötetre mihamarabb.
+				<lb facs='#facs_2_line_1617642364872_1344' n='N005'/>Remélem rendben vagy, tagjaid nem rakon-
+				<lb facs='#facs_2_line_1617642369995_1349' n='N006'/>cátlankodnak. Itt járt <persName>Fenyő Panni</persName>,
+				<lb facs='#facs_2_line_1617642374189_1354' n='N007'/>siratta hűlt helyed, <persName>Gzőző</persName>vel vigasztaltunk.
+				<lb facs='#facs_2_line_1617642379049_1359' n='N008'/>Itt reménytelen ősz van, álmaimban az
+				<lb facs='#facs_2_line_1617642383785_1364' n='N009'/><placeName>Amazonas folyó</placeName>n vadászok kajmánokra. Álom
+				<lb facs='#facs_2_line_1617642388336_1369' n='N010'/>ez, a valóságban bicegek egy lábujjinfekcióval.
+			</p>
+			<p facs='#facs_2_region_1617642251948_1308'>
+				<lb facs='#facs_2_line_1617642392292_1374' n='N001'/>Híved
+			</p>
+			<p facs='#facs_2_region_1617642255704_1311'>
+				<lb facs='#facs_2_line_1617642402695_1379' n='N001'/><placeName>Tamás</placeName>
+			</p>
+		</body>
+	</text>
+</TEI>

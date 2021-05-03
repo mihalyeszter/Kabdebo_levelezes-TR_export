@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._18</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='5382' lry='3898'>
+			<graphic url='PKEL'2018.13.347._18a.tif' width='5382px' height='3898px'/>
+			<zone ulx='372' uly='3193' lrx='2324' lry='3601' rendition='TextRegion' xml:id='facs_1_region_1617378277453_278'>
+				<zone ulx='415' uly='3339' lrx='2293' lry='3529' rendition='Line' xml:id='facs_1_line_1617378330333_313'/>
+			</zone>
+			<zone ulx='3425' uly='902' lrx='4697' lry='1176' rendition='TextRegion' xml:id='facs_1_region_1617378148121_229'>
+				<zone ulx='3452' uly='962' lrx='4677' lry='1159' rendition='Line' xml:id='facs_1_line_1617378306318_283'/>
+			</zone>
+			<zone ulx='3134' uly='1223' lrx='4787' lry='1424' rendition='TextRegion' xml:id='facs_1_region_1617378173061_239'>
+				<zone ulx='3208' uly='1245' lrx='4716' lry='1394' rendition='Line' xml:id='facs_1_line_1617378310190_288'/>
+			</zone>
+			<zone ulx='3795' uly='1533' lrx='4149' lry='1734' rendition='TextRegion' xml:id='facs_1_region_1617378241339_256'>
+				<zone ulx='3822' uly='1557' lrx='4125' lry='1711' rendition='Line' xml:id='facs_1_line_1617378314374_293'/>
+			</zone>
+			<zone ulx='3470' uly='2789' lrx='4312' lry='2948' rendition='TextRegion' xml:id='facs_1_region_1617378258169_259'>
+				<zone ulx='3492' uly='2808' lrx='4276' lry='2941' rendition='Line' xml:id='facs_1_line_1617378317712_298'/>
+			</zone>
+			<zone ulx='3217' uly='2993' lrx='4632' lry='3165' rendition='TextRegion' xml:id='facs_1_region_1617378261788_265'>
+				<zone ulx='3317' uly='3018' lrx='4521' lry='3163' rendition='Line' xml:id='facs_1_line_1617378320895_303'/>
+			</zone>
+			<zone ulx='3080' uly='3191' lrx='4635' lry='3429' rendition='TextRegion' xml:id='facs_1_region_1617378263459_268'>
+				<zone ulx='3269' uly='3219' lrx='4541' lry='3360' rendition='Line' xml:id='facs_1_line_1617378324385_308'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='5381' lry='3899'>
+			<graphic url='PKEL'2018.13.347._18b.tif' width='5381px' height='3899px'/>
+			<zone ulx='1723' uly='143' lrx='2604' lry='334' rendition='TextRegion' xml:id='facs_2_region_1617378685511_396'>
+				<zone ulx='1775' uly='148' lrx='2559' lry='331' rendition='Line' xml:id='facs_2_line_1617378803355_435'/>
+			</zone>
+			<zone ulx='225' uly='104' lrx='1651' lry='362' rendition='TextRegion' xml:id='facs_2_region_1617378727045_410'>
+				<zone ulx='294' uly='141' lrx='1568' lry='351' rendition='Line' xml:id='facs_2_line_1617378798928_430'/>
+			</zone>
+			<zone ulx='129' uly='338' lrx='2658' lry='1156' rendition='TextRegion' xml:id='facs_2_region_1617378731916_413'>
+				<zone ulx='402' uly='353' lrx='2629' lry='562' rendition='Line' xml:id='facs_2_line_1617378809701_440'/>
+				<zone ulx='135' uly='566' lrx='2528' lry='726' rendition='Line' xml:id='facs_2_line_1617378816300_445'/>
+				<zone ulx='180' uly='730' lrx='2531' lry='886' rendition='Line' xml:id='facs_2_line_1617378822296_450'/>
+				<zone ulx='160' uly='884' lrx='942' lry='1132' rendition='Line' xml:id='facs_2_line_1617378825993_455'/>
+			</zone>
+			<zone ulx='156' uly='982' lrx='2667' lry='1500' rendition='TextRegion' xml:id='facs_2_TextRegion_1619102420116_2158'>
+				<zone ulx='499' uly='995' lrx='2497' lry='1158' rendition='Line' xml:id='facs_2_line_1617378842546_460'/>
+				<zone ulx='164' uly='1153' lrx='2651' lry='1316' rendition='Line' xml:id='facs_2_line_1617378848680_465'/>
+				<zone ulx='178' uly='1327' lrx='1630' lry='1498' rendition='Line' xml:id='facs_2_line_1617378851918_470'/>
+			</zone>
+			<zone ulx='126' uly='1475' lrx='2672' lry='3135' rendition='TextRegion' xml:id='facs_2_region_1617378760600_425'>
+				<zone ulx='535' uly='1478' lrx='2575' lry='1622' rendition='Line' xml:id='facs_2_line_1617378856379_475'/>
+				<zone ulx='144' uly='1628' lrx='2454' lry='1812' rendition='Line' xml:id='facs_2_line_1617378860137_480'/>
+				<zone ulx='181' uly='1783' lrx='2630' lry='1962' rendition='Line' xml:id='facs_2_line_1617378865215_485'/>
+				<zone ulx='167' uly='1966' lrx='2610' lry='2123' rendition='Line' xml:id='facs_2_line_1617378869245_490'/>
+				<zone ulx='225' uly='2118' lrx='2653' lry='2284' rendition='Line' xml:id='facs_2_line_1617378873532_495'/>
+				<zone ulx='198' uly='2284' lrx='2647' lry='2501' rendition='Line' xml:id='facs_2_line_1617378877644_500'/>
+				<zone ulx='217' uly='2500' lrx='2647' lry='2660' rendition='Line' xml:id='facs_2_line_1617378941497_541'/>
+				<zone ulx='180' uly='2658' lrx='2575' lry='2851' rendition='Line' xml:id='facs_2_line_1617378946088_546'/>
+				<zone ulx='165' uly='2818' lrx='2641' lry='3024' rendition='Line' xml:id='facs_2_line_1617378950599_551'/>
+				<zone ulx='199' uly='3013' lrx='591' lry='3132' rendition='Line' xml:id='facs_2_line_1617378954511_556'/>
+			</zone>
+			<zone ulx='119' uly='3088' lrx='2664' lry='3681' rendition='TextRegion' xml:id='facs_2_region_1617378898868_511'>
+				<zone ulx='493' uly='3098' lrx='2536' lry='3263' rendition='Line' xml:id='facs_2_line_1617378958647_561'/>
+				<zone ulx='207' uly='3263' lrx='2647' lry='3402' rendition='Line' xml:id='facs_2_line_1617378963211_566'/>
+				<zone ulx='179' uly='3406' lrx='2588' lry='3554' rendition='Line' xml:id='facs_2_line_1617378967565_571'/>
+				<zone ulx='192' uly='3543' lrx='2384' lry='3674' rendition='Line' xml:id='facs_2_line_1617378971862_576'/>
+			</zone>
+			<zone ulx='247' uly='3692' lrx='1627' lry='3810' rendition='TextRegion' xml:id='facs_2_region_1617378901987_514'>
+				<zone ulx='278' uly='3699' lrx='1554' lry='3805' rendition='Line' xml:id='facs_2_line_1617378984973_581'/>
+			</zone>
+			<zone ulx='1636' uly='3675' lrx='2235' lry='3806' rendition='TextRegion' xml:id='facs_2_region_1617379183664_638'>
+				<zone ulx='1664' uly='3684' lrx='2212' lry='3796' rendition='Line' xml:id='facs_2_line_1617784643163_242'/>
+			</zone>
+			<zone ulx='2252' uly='3660' lrx='2677' lry='3802' rendition='TextRegion' xml:id='facs_2_region_1617378932152_538'>
+				<zone ulx='2276' uly='3665' lrx='2652' lry='3795' rendition='Line' xml:id='facs_2_line_1617378993875_591'/>
+			</zone>
+			<zone ulx='3094' uly='2774' lrx='5112' lry='3134' rendition='TextRegion' xml:id='facs_2_region_1617379713597_760'>
+				<zone ulx='3134' uly='2888' lrx='4950' lry='3056' rendition='Line' xml:id='facs_2_line_1617379779350_772'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1617378277453_278'>
+				<lb facs='#facs_1_line_1617378330333_313' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1617378148121_229'>
+				<lb facs='#facs_1_line_1617378306318_283' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1617378173061_239'>
+				<lb facs='#facs_1_line_1617378310190_288' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1617378241339_256'>
+				<lb facs='#facs_1_line_1617378314374_293' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1617378258169_259'>
+				<lb facs='#facs_1_line_1617378317712_298' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1617378261788_265'>
+				<lb facs='#facs_1_line_1617378320895_303' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1617378263459_268'>
+				<lb facs='#facs_1_line_1617378324385_308' n='N001'/>
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1617378685511_396'>
+				<lb facs='#facs_2_line_1617378803355_435' n='N001'/>
+			</p>
+			<p facs='#facs_2_region_1617378727045_410'>
+				<lb facs='#facs_2_line_1617378798928_430' n='N001'/>
+			</p>
+			<p facs='#facs_2_region_1617378731916_413'>
+				<lb facs='#facs_2_line_1617378809701_440' n='N001'/>
+				<lb facs='#facs_2_line_1617378816300_445' n='N002'/>
+				<lb facs='#facs_2_line_1617378822296_450' n='N003'/>
+				<lb facs='#facs_2_line_1617378825993_455' n='N004'/>
+			</p>
+			<p facs='#facs_2_TextRegion_1619102420116_2158'>
+				<lb facs='#facs_2_line_1617378842546_460' n='N001'/>
+				<lb facs='#facs_2_line_1617378848680_465' n='N002'/>
+				<lb facs='#facs_2_line_1617378851918_470' n='N003'/>
+			</p>
+			<p facs='#facs_2_region_1617378760600_425'>
+				<lb facs='#facs_2_line_1617378856379_475' n='N001'/>
+				<lb facs='#facs_2_line_1617378860137_480' n='N002'/>
+				<lb facs='#facs_2_line_1617378865215_485' n='N003'/>
+				<lb facs='#facs_2_line_1617378869245_490' n='N004'/>
+				<lb facs='#facs_2_line_1617378873532_495' n='N005'/>
+				<lb facs='#facs_2_line_1617378877644_500' n='N006'/>
+				<lb facs='#facs_2_line_1617378941497_541' n='N007'/>
+				<lb facs='#facs_2_line_1617378946088_546' n='N008'/>
+				<lb facs='#facs_2_line_1617378950599_551' n='N009'/>
+				<lb facs='#facs_2_line_1617378954511_556' n='N010'/>
+			</p>
+			<p facs='#facs_2_region_1617378898868_511'>
+				<lb facs='#facs_2_line_1617378958647_561' n='N001'/>
+				<lb facs='#facs_2_line_1617378963211_566' n='N002'/>
+				<lb facs='#facs_2_line_1617378967565_571' n='N003'/>
+				<lb facs='#facs_2_line_1617378971862_576' n='N004'/>
+			</p>
+			<p facs='#facs_2_region_1617378901987_514'>
+				<lb facs='#facs_2_line_1617378984973_581' n='N001'/>
+			</p>
+			<p facs='#facs_2_region_1617379183664_638'>
+				<lb facs='#facs_2_line_1617784643163_242' n='N001'/>
+			</p>
+			<p facs='#facs_2_region_1617378932152_538'>
+				<lb facs='#facs_2_line_1617378993875_591' n='N001'/>
+			</p>
+			<p facs='#facs_2_region_1617379713597_760'>
+				<lb facs='#facs_2_line_1617379779350_772' n='N001'/>
+			</p>
+		</body>
+	</text>
+</TEI>

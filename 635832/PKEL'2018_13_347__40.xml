@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._40</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3024' lry='1845'>
+			<graphic url='PKEL'2018.13.347._40a.tif' width='3024px' height='1845px'/>
+			<zone ulx='1879' uly='48' lrx='2541' lry='324' rendition='TextRegion' xml:id='facs_1_region_1617800083018_1654'>
+				<zone ulx='1912' uly='91' lrx='2437' lry='307' rendition='Line' xml:id='facs_1_line_1617800143112_1676'/>
+			</zone>
+			<zone ulx='286' uly='54' lrx='1664' lry='339' rendition='TextRegion' xml:id='facs_1_region_1617800078603_1651'>
+				<zone ulx='299' uly='66' lrx='1616' lry='330' rendition='Line' xml:id='facs_1_line_1617800138227_1671'/>
+			</zone>
+			<zone ulx='97' uly='347' lrx='2975' lry='1314' rendition='TextRegion' xml:id='facs_1_region_1617800118037_1665'>
+				<zone ulx='724' uly='359' lrx='2967' lry='571' rendition='Line' xml:id='facs_1_line_1617800151431_1681'/>
+				<zone ulx='117' uly='502' lrx='2830' lry='760' rendition='Line' xml:id='facs_1_line_1617800156196_1686'/>
+				<zone ulx='156' uly='694' lrx='2926' lry='1060' rendition='Line' xml:id='facs_1_line_1617800161830_1691'/>
+				<zone ulx='169' uly='845' lrx='2746' lry='1266' rendition='Line' xml:id='facs_1_line_1617800166281_1696'/>
+				<zone ulx='166' uly='1143' lrx='807' lry='1304' rendition='Line' xml:id='facs_1_line_1617800169432_1701'/>
+			</zone>
+			<zone ulx='127' uly='1321' lrx='2982' lry='1698' rendition='TextRegion' xml:id='facs_1_region_1617800129178_1668'>
+				<zone ulx='645' uly='1322' lrx='2766' lry='1515' rendition='Line' xml:id='facs_1_line_1617800173538_1706'/>
+				<zone ulx='175' uly='1463' lrx='2970' lry='1688' rendition='Line' xml:id='facs_1_line_1617800177971_1711'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3034' lry='1860'>
+			<graphic url='PKEL'2018.13.347._40b.tif' width='3034px' height='1860px'/>
+			<zone ulx='91' uly='45' lrx='2986' lry='1302' rendition='TextRegion' xml:id='facs_2_region_1617800338971_1760'>
+				<zone ulx='163' uly='72' lrx='2921' lry='305' rendition='Line' xml:id='facs_2_line_1617800390360_1778'/>
+				<zone ulx='168' uly='288' lrx='2885' lry='450' rendition='Line' xml:id='facs_2_line_1617800394965_1783'/>
+				<zone ulx='189' uly='459' lrx='2982' lry='627' rendition='Line' xml:id='facs_2_line_1617800400205_1788'/>
+				<zone ulx='143' uly='632' lrx='2986' lry='774' rendition='Line' xml:id='facs_2_line_1617800404345_1793'/>
+				<zone ulx='109' uly='772' lrx='2821' lry='946' rendition='Line' xml:id='facs_2_line_1617800409082_1798'/>
+				<zone ulx='100' uly='938' lrx='2905' lry='1110' rendition='Line' xml:id='facs_2_line_1617800414828_1803'/>
+				<zone ulx='200' uly='1117' lrx='752' lry='1270' rendition='Line' xml:id='facs_2_line_1617800419197_1808'/>
+			</zone>
+			<zone ulx='674' uly='1259' lrx='2901' lry='1484' rendition='TextRegion' xml:id='facs_2_region_1617800351941_1763'>
+				<zone ulx='693' uly='1283' lrx='2891' lry='1486' rendition='Line' xml:id='facs_2_line_1617800527006_1833'/>
+			</zone>
+			<zone ulx='1813' uly='1451' lrx='2937' lry='1685' rendition='TextRegion' xml:id='facs_2_region_1617800363171_1772'>
+				<zone ulx='1833' uly='1462' lrx='2903' lry='1661' rendition='Line' xml:id='facs_2_line_1617800429482_1813'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1617800083018_1654'>
+				<lb facs='#facs_1_line_1617800143112_1676' n='N001'/>25-én.
+			</p>
+			<p facs='#facs_1_region_1617800078603_1651'>
+				<lb facs='#facs_1_line_1617800138227_1671' n='N001'/>Kedves Laci bátyám,
+			</p>
+			<p facs='#facs_1_region_1617800118037_1665'>
+				<lb facs='#facs_1_line_1617800151431_1681' n='N001'/>E cédulácska két földi<add><gap />m</add> — volt rajz¬
+				<lb facs='#facs_1_line_1617800156196_1686' n='N002'/>tanárom és apám egyik öreg barátjának kérését
+				<lb facs='#facs_1_line_1617800161830_1691' n='N003'/>közvetíti. Nagyon szeretnének egyet-egyet A<hi rend='underlined:true; fontSize:0.0; kerning:0;'>z angol</hi>
+				<lb facs='#facs_1_line_1617800166281_1696' n='N004'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>festők</hi> c. könyvedből, a kézjegyeddel a címlapon.
+				<lb facs='#facs_1_line_1617800169432_1701' n='N005'/>címlapon. 
+			</p>
+			<p facs='#facs_1_region_1617800129178_1668'>
+				<lb facs='#facs_1_line_1617800173538_1706' n='N001'/>Kereskedőhöz azért nem fordulok,
+				<lb facs='#facs_1_line_1617800177971_1711' n='N002'/>hanem arra kérlek, csúsztass bele két példányt
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1617800338971_1760'>
+				<lb facs='#facs_2_line_1617800390360_1778' n='N001'/>a küldött borítékba (bélyeget, címátragasztót 
+				<lb facs='#facs_2_line_1617800394965_1783' n='N002'/>is mellékelek) s küldd el címemre. Nem tudom
+				<lb facs='#facs_2_line_1617800400205_1788' n='N003'/>valóban <hi rend='underlined:true; fontSize:0.0; kerning:0;'>megjelent-e már e könyv</hi> - de ha nem, akkor 
+				<lb facs='#facs_2_line_1617800404345_1793' n='N004'/>a megjelenéskor tedd meg ezt nekem. Árát csekk¬
+				<lb facs='#facs_2_line_1617800409082_1798' n='N005'/>ben küldöm, vagy nejem teszi ugyanezt, ha
+				<lb facs='#facs_2_line_1617800414828_1803' n='N006'/>mire a könyv megérkezik már <sic>Dél-Amerikában</sic> 
+				<lb facs='#facs_2_line_1617800419197_1808' n='N007'/>lennék.
+			</p>
+			<p facs='#facs_2_region_1617800351941_1763'>
+				<lb facs='#facs_2_line_1617800527006_1833' n='N001'/>Sok meleg, de tiszteletteljes üdvözlettel,
+			</p>
+			<p facs='#facs_2_region_1617800363171_1772'>
+				<lb facs='#facs_2_line_1617800429482_1813' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>Kabdebó Tamás</hi>
+			</p>
+		</body>
+	</text>
+</TEI>

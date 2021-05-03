@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:36:46.818+01:00</Created>
+        <LastChange>2021-04-26T10:17:38.861+02:00</LastChange>
+        <TranskribusMetadata docId="635833" pageId="24864881" pageNr="1" tsid="57174095" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=JWVVPWYPFNAMGWQTFBWWTPTP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IYDTKZJLPNZYXORDRXBVIZAS" imageId="19179824"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._41a.tif" imageWidth="3386" imageHeight="4380">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453623507" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1619085497843_810"/>
+                <RegionRefIndexed index="1" regionRef="region_1619085502183_818"/>
+                <RegionRefIndexed index="2" regionRef="region_1617811135834_1913"/>
+                <RegionRefIndexed index="3" regionRef="region_1617811151080_1916"/>
+                <RegionRefIndexed index="4" regionRef="region_1617816196841_2171"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1619085497843_810" custom="readingOrder {index:0;}">
+            <Coords points="2236,109 2236,234 3205,234 3205,109"/>
+            <TextLine id="line_1619085497978_813" custom="readingOrder {index:0;}">
+                <Coords points="2236,118 3205,118 3205,225 2236,225"/>
+                <Baseline points="2236,199 3205,199"/>
+                <TextEquiv>
+                    <Unicode>13, Landcross Rd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13, Landcross Rd</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1619085502183_818" custom="readingOrder {index:1;}">
+            <Coords points="2247,237 2250,384 3076,384 3073,237"/>
+            <TextLine id="line_1619085502308_821" custom="readingOrder {index:0;}">
+                <Coords points="2247,246 3073,246 3076,374 2250,374"/>
+                <Baseline points="2250,330 3076,330"/>
+                <TextEquiv>
+                    <Unicode>Manchester, 14.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Manchester, 14.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617811135834_1913" custom="readingOrder {index:2;}">
+            <Coords points="759,209 2201,209 2201,571 759,571"/>
+            <TextLine id="line_1617815511317_2014" custom="readingOrder {index:0;}">
+                <Coords points="805,211 2172,219 2174,554 799,548"/>
+                <Baseline points="799,525 2174,531"/>
+                <TextEquiv>
+                    <Unicode>Kedves Laci bácsi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Laci bácsi,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617811151080_1916" custom="readingOrder {index:3;}">
+            <Coords points="233,584 3199,584 3208,2452 242,2452"/>
+            <TextLine id="line_1617811217332_1919" custom="readingOrder {index:0;}">
+                <Coords points="1252,617 3188,608 3192,874 1246,895"/>
+                <Baseline points="1246,890 3192,869"/>
+                <TextEquiv>
+                    <Unicode>Vasárnap, December 29-én</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617811225657_1924" custom="readingOrder {index:1;}">
+                <Coords points="278,902 3148,910 3153,1181 282,1170"/>
+                <Baseline points="282,1114 3159,1100"/>
+                <TextEquiv>
+                    <Unicode>- ha ez megfelel- szeretnék eljönni érted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617811231421_1929" custom="readingOrder {index:2;}">
+                <Coords points="278,1196 3106,1196 3119,1415 262,1430"/>
+                <Baseline points="263,1340 3119,1345"/>
+                <TextEquiv>
+                    <Unicode>és elhozni téged mihozzánk ebédre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617811244701_1934" custom="readingOrder {index:3;} textStyle {offset:23; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="284,1436 3098,1426 3080,1648 285,1655"/>
+                <Baseline points="287,1620 3079,1612"/>
+                <TextEquiv>
+                    <Unicode>Ugyanekkor, remélem az antológia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617811250392_1939" custom="readingOrder {index:4;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;} comment {offset:9; length:15;comment:Szathmáry\u0020Lajos\u0020(1919-1996)\u0020anyagilag\u0020támogatta\u0020az\u0020antológiát.\u0020A\u0020szakács\u0020megjelöléssel\u0020arra\u0020utal\u0020Kabdebó\u0020Tamás,\u0020hogy\u0020Szathmáry\u0020Lajos\u0020vendéglőben\u0020is\u0020dolgozott.;}">
+                <Coords points="310,1681 3094,1663 3076,1916 314,1930"/>
+                <Baseline points="317,1844 3073,1849"/>
+                <TextEquiv>
+                    <Unicode>szakácsa Szathmáry Lajos is nálam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617811256202_1944" custom="readingOrder {index:5;}">
+                <Coords points="288,1939 3125,1934 3116,2183 293,2179"/>
+                <Baseline points="290,2104 3115,2112"/>
+                <TextEquiv>
+                    <Unicode>lesz, aki ismét a vizitál Angliában</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617811291218_1953" custom="readingOrder {index:6;}">
+                <Coords points="287,2199 1516,2194 1509,2428 289,2428"/>
+                <Baseline points="289,2382 1508,2363"/>
+                <TextEquiv>
+                    <Unicode>a közeljövőben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vasárnap, December 29-én&#xD;
+- ha ez megfelel- szeretnék eljönni érted&#xD;
+és elhozni téged mihozzánk ebédre.&#xD;
+Ugyanekkor, remélem az antológia&#xD;
+szakácsa Szathmáry Lajos is nálam&#xD;
+lesz, aki ismét a vizitál Angliában&#xD;
+a közeljövőben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617816196841_2171" custom="readingOrder {index:4;}">
+            <Coords points="237,2456 3268,2457 3271,4149 215,4136"/>
+            <TextLine id="line_1617815969667_2134" custom="readingOrder {index:0;} comment {offset:0; length:10;comment:Deutsch,\u0020André\u0020(1907-2000),\u0020könyvkiadó;}">
+                <Coords points="1222,2462 3021,2471 3024,2673 1250,2642"/>
+                <Baseline points="1250,2637 3028,2648"/>
+                <TextEquiv>
+                    <Unicode>Deutschtól visszakaptam a </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816262145_2176" custom="readingOrder {index:1;}">
+                <Coords points="270,2639 2992,2688 2984,2838 275,2838"/>
+                <Baseline points="275,2833 2984,2833"/>
+                <TextEquiv>
+                    <Unicode>kéziratot (a riasztásra riadtam és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816268085_2181" custom="readingOrder {index:2;} add {offset:29; length:1;} gap {offset:29; length:0;}">
+                <Coords points="257,2859 3202,2880 3206,3067 262,3174"/>
+                <Baseline points="268,3032 3199,3021"/>
+                <TextEquiv>
+                    <Unicode>riasztottam) és egy igen biztató levelet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816273868_2186" custom="readingOrder {index:3;}">
+                <Coords points="253,3189 3224,3073 3232,3305 240,3360"/>
+                <Baseline points="240,3305 3224,3231"/>
+                <TextEquiv>
+                    <Unicode>melyet majd megmutatok. Lényege:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816278490_2191" custom="readingOrder {index:4;}">
+                <Coords points="419,3350 2985,3310 2976,3567 415,3598"/>
+                <Baseline points="272,3561 2837,3490"/>
+                <TextEquiv>
+                    <Unicode>Deutsch elvállalta az angliai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816283661_2196" custom="readingOrder {index:5;} comment {offset:15; length:6;comment:könyvkiadó;}">
+                <Coords points="332,3627 2925,3617 2937,3818 323,3835"/>
+                <Baseline points="320,3797 2932,3759"/>
+                <TextEquiv>
+                    <Unicode>terjesztést, a Mouton igazgatója </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617816288648_2201" custom="readingOrder {index:6;}">
+                <Coords points="341,3845 2956,3823 2918,4078 344,4118"/>
+                <Baseline points="347,4050 2930,4018"/>
+                <TextEquiv>
+                    <Unicode>felhívta őt telefonon, és azt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Deutschtól visszakaptam a &#xD;
+kéziratot (a riasztásra riadtam és&#xD;
+riasztottam) és egy igen biztató levelet,&#xD;
+melyet majd megmutatok. Lényege:&#xD;
+Deutsch elvállalta az angliai&#xD;
+terjesztést, a Mouton igazgatója &#xD;
+felhívta őt telefonon, és azt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

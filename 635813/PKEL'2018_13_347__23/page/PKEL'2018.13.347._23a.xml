@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:35:45.563+01:00</Created>
+        <LastChange>2021-04-21T09:44:12.552+02:00</LastChange>
+        <TranskribusMetadata docId="635813" pageId="24864833" pageNr="1" tsid="56897602" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=FFVIHVLKDCOJBAWBIGLACWWJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGVKLNEIVLDURIVLIFFTBDXK" imageId="19179776"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._23a.tif" imageWidth="3657" imageHeight="5467">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453603936" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617638055278_232"/>
+                <RegionRefIndexed index="1" regionRef="region_1617638073170_236"/>
+                <RegionRefIndexed index="2" regionRef="region_1617638080281_239"/>
+                <RegionRefIndexed index="3" regionRef="region_1617638084919_242"/>
+                <RegionRefIndexed index="4" regionRef="region_1617638089399_245"/>
+                <RegionRefIndexed index="5" regionRef="region_1617638719084_435"/>
+                <RegionRefIndexed index="6" regionRef="region_1617638750138_439"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617638055278_232" custom="readingOrder {index:0;}">
+            <Coords points="2165,366 3546,380 3534,715 2252,715"/>
+            <TextLine id="line_1617638945564_480" custom="readingOrder {index:0;} date {offset:0; length:16;year:0; day:0; month:0;}">
+                <Coords points="2226,385 3459,401 3517,700 2291,695"/>
+                <Baseline points="2279,607 3491,598"/>
+                <TextEquiv>
+                    <Unicode>1976 jún. 23-án.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1976 jún. 23-án.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617638073170_236" custom="readingOrder {index:1;}">
+            <Coords points="961,738 2822,730 2802,860 965,845"/>
+            <TextLine id="line_1617638955268_485" custom="readingOrder {index:0;} persName {offset:0; length:14;} title {offset:16; length:23;}">
+                <Coords points="1007,776 2739,766 2734,853 1006,826"/>
+                <Baseline points="1006,821 2734,848"/>
+                <TextEquiv>
+                    <Unicode>Thomas Kabdebo: Hundred Hungarian poems</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Thomas Kabdebo: Hundred Hungarian poems</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617638080281_239" custom="readingOrder {index:2;}">
+            <Coords points="976,967 2856,953 2844,866 956,866"/>
+            <TextLine id="line_1617638963831_490" custom="readingOrder {index:0;}">
+                <Coords points="1005,866 2703,875 2703,937 1017,953"/>
+                <Baseline points="1016,934 2703,932"/>
+                <TextEquiv>
+                    <Unicode>is the forerunner of the comprehensive anthology:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>is the forerunner of the comprehensive anthology:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617638084919_242" custom="readingOrder {index:3;}">
+            <Coords points="1089,971 2796,963 2819,1085 1113,1045"/>
+            <TextLine id="line_1617638971229_495" custom="readingOrder {index:0;} title {offset:0; length:32;}">
+                <Coords points="1125,984 2633,969 2645,1039 1125,1034"/>
+                <Baseline points="1125,1029 2645,1034"/>
+                <TextEquiv>
+                    <Unicode>THE POETRY OF Hungary, 1200-1970</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>THE POETRY OF Hungary, 1200-1970</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617638089399_245" custom="readingOrder {index:4;}">
+            <Coords points="993,1404 2909,1308 2840,1104 945,1076"/>
+            <TextLine id="line_1617638976722_500" custom="readingOrder {index:0;} persName {offset:7; length:10;}">
+                <Coords points="999,1093 2598,1104 2601,1313 1002,1380"/>
+                <Baseline points="1032,1353 2601,1308"/>
+                <TextEquiv>
+                    <Unicode>Kedves Laci bácsi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Laci bácsi,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617638719084_435" custom="readingOrder {index:5;}">
+            <Coords points="186,1451 3541,1291 3513,4778 2202,4779 2028,4833 1939,4782 1640,4782 1575,4830 1454,4782 221,4783"/>
+            <TextLine id="line_1617638981621_505" custom="readingOrder {index:0;}">
+                <Coords points="1579,1390 3201,1315 3199,1544 1590,1562"/>
+                <Baseline points="1590,1557 3199,1539"/>
+                <TextEquiv>
+                    <Unicode>Köszönöm jó szavaid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617638987759_510" custom="readingOrder {index:1;}">
+                <Coords points="223,1581 3134,1576 3147,1794 292,1792"/>
+                <Baseline points="292,1787 3150,1738"/>
+                <TextEquiv>
+                    <Unicode>mellyel szerény igyekezetem nyugtattad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617638993686_515" custom="readingOrder {index:2;} persName {offset:2; length:3;}">
+                <Coords points="276,1807 3448,1776 3473,1947 323,2005"/>
+                <Baseline points="323,2000 3473,1942"/>
+                <TextEquiv>
+                    <Unicode>A Csé versekről az én angol fordításom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617638999366_520" custom="readingOrder {index:3;} title {offset:26; length:9;}">
+                <Coords points="257,2005 3443,1969 3447,2142 341,2204"/>
+                <Baseline points="337,2161 3438,2107"/>
+                <TextEquiv>
+                    <Unicode>sem von le, de ha majd az Antológiára</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639006077_525" custom="readingOrder {index:4;}">
+                <Coords points="248,2178 3325,2161 3354,2333 279,2359"/>
+                <Baseline points="279,2354 3336,2292"/>
+                <TextEquiv>
+                    <Unicode>kerül a sor, a kefelevonatokat elküldöm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639011566_530" custom="readingOrder {index:5;} textStyle {offset:19; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="204,2372 3216,2333 3285,2541 279,2563"/>
+                <Baseline points="279,2558 3270,2509"/>
+                <TextEquiv>
+                    <Unicode>neked. Így fogok a bevezető-vel is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639017923_535" custom="readingOrder {index:6;}">
+                <Coords points="235,2590 3181,2541 3177,2727 270,2722"/>
+                <Baseline points="270,2717 3177,2722"/>
+                <TextEquiv>
+                    <Unicode>cselekedni és minden olyan szöveggel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639030424_540" custom="readingOrder {index:7;} add {offset:17; length:1;} gap {offset:17; length:0;}">
+                <Coords points="276,2748 3341,2731 3363,2908 1318,2930 1247,3007 1138,2956 1055,2930 317,2924"/>
+                <Baseline points="288,2895 3363,2903"/>
+                <TextEquiv>
+                    <Unicode>ahol az angol verzió auktora elérhető.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639036542_545" custom="readingOrder {index:8;} title {offset:3; length:9;} orgName {offset:23; length:6;}">
+                <Coords points="242,2950 1141,2971 1256,3024 1362,2936 3285,2912 3372,3125 1326,3119 1119,3226 1090,3136 617,3133 253,3133"/>
+                <Baseline points="347,3126 3299,3075"/>
+                <TextEquiv>
+                    <Unicode>Az Antológiát elvettük Moutontól, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639042004_550" custom="readingOrder {index:9;} persName {offset:10; length:6;}">
+                <Coords points="269,3235 260,3161 1084,3164 1120,3240 1294,3143 3050,3131 3061,3285 270,3334"/>
+                <Baseline points="270,3329 3061,3280"/>
+                <TextEquiv>
+                    <Unicode>kéziratot Makkainak továbbították</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639048254_555" custom="readingOrder {index:10;} placeName {offset:0; length:7;} persName {offset:15; length:9;}">
+                <Coords points="209,3329 3364,3280 3381,3497 3018,3473 2686,3526 2317,3507 2208,3589 2021,3502 298,3533"/>
+                <Baseline points="292,3498 3376,3462"/>
+                <TextEquiv>
+                    <Unicode>Chicagoba aki, Szathmáry támogatásával</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617799608033_164" custom="readingOrder {index:11;}">
+                <Coords points="294,3625 339,3539 2101,3548 2205,3601 2285,3524 2710,3548 2876,3498 3178,3486 3348,3561 3328,3710 3036,3724 2503,3690 2268,3687 2093,3771 2024,3687 910,3716 762,3774 306,3722"/>
+                <Baseline points="311,3658 3331,3649"/>
+                <TextEquiv>
+                    <Unicode>ki fogja szedni a szöveget az év vége</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639070148_565" custom="readingOrder {index:12;}">
+                <Coords points="289,3726 847,3789 928,3754 975,3730 2045,3751 2096,3789 2382,3700 3346,3733 3346,3792 3323,3904 983,3899 290,3951"/>
+                <Baseline points="303,3898 3322,3884"/>
+                <TextEquiv>
+                    <Unicode>felé. Előtte valamikor át akar jönni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639077637_570" custom="readingOrder {index:13;}">
+                <Coords points="233,3937 3467,3919 3446,4100 256,4192"/>
+                <Baseline points="318,4128 3441,4053"/>
+                <TextEquiv>
+                    <Unicode>hozzám, hogy együttesen emberi méreteket</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639082705_575" custom="readingOrder {index:14;}">
+                <Coords points="278,4188 2977,4113 3000,4363 344,4409"/>
+                <Baseline points="362,4345 2994,4296"/>
+                <TextEquiv>
+                    <Unicode>adjunk (egy eladható kötetet) az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639090507_580" custom="readingOrder {index:15;}">
+                <Coords points="269,4423 3193,4365 3201,4542 2898,4536 2701,4638 2486,4575 297,4591"/>
+                <Baseline points="291,4535 3186,4531"/>
+                <TextEquiv>
+                    <Unicode>emberfeletti, 1200 oldalas anyagnak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639096954_585" custom="readingOrder {index:16;}">
+                <Coords points="254,4602 1330,4617 1980,4587 2572,4611 2642,4655 2722,4658 2885,4569 3334,4578 3340,4738 2169,4763 2038,4821 1875,4737 1648,4766 1573,4824 1398,4745 297,4774"/>
+                <Baseline points="309,4744 3335,4726"/>
+                <TextEquiv>
+                    <Unicode>Procrustes kardja téged nem érint.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Köszönöm jó szavaid&#xD;
+mellyel szerény igyekezetem nyugtattad.&#xD;
+A Csé versekről az én angol fordításom&#xD;
+sem von le, de ha majd az Antológiára&#xD;
+kerül a sor, a kefelevonatokat elküldöm&#xD;
+neked. Így fogok a bevezető-vel is&#xD;
+cselekedni és minden olyan szöveggel&#xD;
+ahol az angol verzió auktora elérhető.&#xD;
+Az Antológiát elvettük Moutontól, a&#xD;
+kéziratot Makkainak továbbították&#xD;
+Chicagoba aki, Szathmáry támogatásával&#xD;
+ki fogja szedni a szöveget az év vége&#xD;
+felé. Előtte valamikor át akar jönni&#xD;
+hozzám, hogy együttesen emberi méreteket&#xD;
+adjunk (egy eladható kötetet) az&#xD;
+emberfeletti, 1200 oldalas anyagnak.&#xD;
+Procrustes kardja téged nem érint.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617638750138_439" custom="readingOrder {index:6;}">
+            <Coords points="140,4863 1584,4853 1623,4794 1948,4794 2031,4850 2205,4791 3334,4803 3348,5313 163,5313"/>
+            <TextLine id="line_1617639102191_590" custom="readingOrder {index:0;}">
+                <Coords points="1533,4861 1590,4859 1625,4803 1945,4806 2028,4859 2178,4806 3118,4818 3127,5002 1531,4983"/>
+                <Baseline points="1550,4912 3123,4970"/>
+                <TextEquiv>
+                    <Unicode>Más. 3 könyvedet:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617639107396_595" custom="readingOrder {index:1;} title {offset:0; length:7;} title {offset:9; length:12;} title {offset:23; length:18;}">
+                <Coords points="249,5004 3248,5017 3258,5265 294,5292"/>
+                <Baseline points="291,5218 3255,5191"/>
+                <TextEquiv>
+                    <Unicode>Irgalom, Félszáz ének, Halfejű pásztorbot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Más. 3 könyvedet:&#xD;
+Irgalom, Félszáz ének, Halfejű pásztorbot</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

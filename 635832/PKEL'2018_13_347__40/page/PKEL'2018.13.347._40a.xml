@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:36:46.289+01:00</Created>
+        <LastChange>2021-04-26T09:13:32.472+02:00</LastChange>
+        <TranskribusMetadata docId="635832" pageId="24864879" pageNr="1" tsid="57169880" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HFEIVUDXIYHSXJYPPPFZSQUU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TQWGZJMPCNHXJYNGWDEAJGLS" imageId="19179822"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._40a.tif" imageWidth="3024" imageHeight="1845">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453608961" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617800083018_1654"/>
+                <RegionRefIndexed index="1" regionRef="region_1617800078603_1651"/>
+                <RegionRefIndexed index="2" regionRef="region_1617800118037_1665"/>
+                <RegionRefIndexed index="3" regionRef="region_1617800129178_1668"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617800083018_1654" custom="readingOrder {index:0;}">
+            <Coords points="1879,48 2541,79 2517,317 1902,324"/>
+            <TextLine id="line_1617800143112_1676" custom="readingOrder {index:0;}">
+                <Coords points="1915,91 2437,124 2421,307 1912,294"/>
+                <Baseline points="1919,280 2395,295"/>
+                <TextEquiv>
+                    <Unicode>25-én.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25-én.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617800078603_1651" custom="readingOrder {index:1;}">
+            <Coords points="295,54 1653,59 1664,339 286,320"/>
+            <TextLine id="line_1617800138227_1671" custom="readingOrder {index:0;}">
+                <Coords points="307,66 1591,68 1616,330 299,306"/>
+                <Baseline points="323,290 1588,313"/>
+                <TextEquiv>
+                    <Unicode>Kedves Laci bátyám,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Laci bátyám,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617800118037_1665" custom="readingOrder {index:2;}">
+            <Coords points="97,347 2975,371 2970,1314 97,1314"/>
+            <TextLine id="line_1617800151431_1681" custom="readingOrder {index:0;} add {offset:22; length:1;} gap {offset:22; length:0;}">
+                <Coords points="727,359 2967,376 2957,571 724,511"/>
+                <Baseline points="730,461 2954,521"/>
+                <TextEquiv>
+                    <Unicode>E cédulácska két földim — volt rajz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800156196_1686" custom="readingOrder {index:1;}">
+                <Coords points="124,502 2830,579 2821,760 117,684"/>
+                <Baseline points="122,637 2816,706"/>
+                <TextEquiv>
+                    <Unicode>tanárom és apám egyik öreg barátjának kérését</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800161830_1691" custom="readingOrder {index:2;} textStyle {offset:43; length:7;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="157,694 2917,790 2926,1060 156,835"/>
+                <Baseline points="163,799 2909,953"/>
+                <TextEquiv>
+                    <Unicode>közvetíti. Nagyon szeretnének egyet-egyet Az angol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800166281_1696" custom="readingOrder {index:3;} textStyle {offset:0; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="180,845 2715,1053 2746,1266 169,1123"/>
+                <Baseline points="188,1014 2703,1133"/>
+                <TextEquiv>
+                    <Unicode>festők c. könyvedből, a kézjegyeddel a címlapon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800169432_1701" custom="readingOrder {index:4;}">
+                <Coords points="168,1143 807,1161 807,1304 166,1275"/>
+                <Baseline points="173,1241 807,1272"/>
+                <TextEquiv>
+                    <Unicode>címlapon. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E cédulácska két földim — volt rajz¬&#xD;
+tanárom és apám egyik öreg barátjának kérését&#xD;
+közvetíti. Nagyon szeretnének egyet-egyet Az angol&#xD;
+festők c. könyvedből, a kézjegyeddel a címlapon.&#xD;
+címlapon. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617800129178_1668" custom="readingOrder {index:3;}">
+            <Coords points="127,1321 2966,1321 2982,1698 135,1697"/>
+            <TextLine id="line_1617800173538_1706" custom="readingOrder {index:0;}">
+                <Coords points="645,1322 2766,1332 2757,1515 657,1463"/>
+                <Baseline points="655,1424 2759,1484"/>
+                <TextEquiv>
+                    <Unicode>Kereskedőhöz azért nem fordulok,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800177971_1711" custom="readingOrder {index:1;}">
+                <Coords points="194,1463 2970,1529 2967,1688 175,1666"/>
+                <Baseline points="185,1581 2965,1647"/>
+                <TextEquiv>
+                    <Unicode>hanem arra kérlek, csúsztass bele két példányt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kereskedőhöz azért nem fordulok,&#xD;
+hanem arra kérlek, csúsztass bele két példányt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

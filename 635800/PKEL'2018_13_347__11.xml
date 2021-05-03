@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._11</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='5050' lry='6234'>
+			<graphic url='PKEL'2018.13.347._11a.tif' width='5050px' height='6234px'/>
+			<zone ulx='123' uly='390' lrx='614' lry='646' rendition='TextRegion' xml:id='facs_1_region_1616944631249_267'>
+				<zone ulx='171' uly='455' lrx='538' lry='606' rendition='Line' xml:id='facs_1_line_1616945302081_385'/>
+			</zone>
+			<zone ulx='181' uly='588' lrx='770' lry='766' rendition='TextRegion' xml:id='facs_1_region_1616944638042_270'>
+				<zone ulx='204' uly='645' lrx='621' lry='718' rendition='Line' xml:id='facs_1_line_1616945307451_390'/>
+			</zone>
+			<zone ulx='168' uly='695' lrx='1003' lry='899' rendition='TextRegion' xml:id='facs_1_region_1616944643713_273'>
+				<zone ulx='193' uly='714' lrx='875' lry='870' rendition='Line' xml:id='facs_1_line_1616945313008_395'/>
+			</zone>
+			<zone ulx='1026' uly='390' lrx='3969' lry='626' rendition='TextRegion' xml:id='facs_1_region_1616944649634_276'>
+				<zone ulx='1067' uly='419' lrx='3877' lry='589' rendition='Line' xml:id='facs_1_line_1616945320915_400'/>
+			</zone>
+			<zone ulx='1476' uly='586' lrx='3724' lry='847' rendition='TextRegion' xml:id='facs_1_region_1616944654559_279'>
+				<zone ulx='1500' uly='629' lrx='3482' lry='811' rendition='Line' xml:id='facs_1_line_1616945327761_405'/>
+			</zone>
+			<zone ulx='4017' uly='445' lrx='4691' lry='586' rendition='TextRegion' xml:id='facs_1_region_1616944659970_282'>
+				<zone ulx='4047' uly='482' lrx='4615' lry='579' rendition='Line' xml:id='facs_1_line_1616945342682_410'/>
+			</zone>
+			<zone ulx='4013' uly='606' lrx='4821' lry='750' rendition='TextRegion' xml:id='facs_1_region_1616944665028_285'>
+				<zone ulx='4033' uly='620' lrx='4789' lry='740' rendition='Line' xml:id='facs_1_line_1616945347132_415'/>
+			</zone>
+			<zone ulx='3981' uly='685' lrx='4440' lry='854' rendition='TextRegion' xml:id='facs_1_region_1616944669577_288'>
+				<zone ulx='4020' uly='731' lrx='4319' lry='830' rendition='Line' xml:id='facs_1_line_1616945351214_420'/>
+			</zone>
+			<zone ulx='3488' uly='1129' lrx='4732' lry='1584' rendition='TextRegion' xml:id='facs_1_region_1616944680895_294'>
+				<zone ulx='3543' uly='1214' lrx='4720' lry='1539' rendition='Line' xml:id='facs_1_line_1616946048407_430'/>
+			</zone>
+			<zone ulx='1256' uly='1117' lrx='3276' lry='1585' rendition='TextRegion' xml:id='facs_1_region_1616944677061_291'>
+				<zone ulx='1320' uly='1142' lrx='3178' lry='1566' rendition='Line' xml:id='facs_1_line_1616946042545_425'/>
+			</zone>
+			<zone ulx='555' uly='1545' lrx='4792' lry='2155' rendition='TextRegion' xml:id='facs_1_region_1616944732361_309'>
+				<zone ulx='1794' uly='1609' lrx='4623' lry='1880' rendition='Line' xml:id='facs_1_line_1616946055484_435'/>
+				<zone ulx='608' uly='1775' lrx='2039' lry='2151' rendition='Line' xml:id='facs_1_line_1616946061657_440'/>
+			</zone>
+			<zone ulx='453' uly='2008' lrx='4837' lry='3393' rendition='TextRegion' xml:id='facs_1_region_1616944763933_312'>
+				<zone ulx='1762' uly='2011' lrx='4687' lry='2315' rendition='Line' xml:id='facs_1_line_1616946069207_445'/>
+				<zone ulx='618' uly='2270' lrx='4337' lry='2542' rendition='Line' xml:id='facs_1_line_1616946078197_450'/>
+				<zone ulx='555' uly='2479' lrx='4576' lry='2817' rendition='Line' xml:id='facs_1_line_1616946085577_455'/>
+				<zone ulx='529' uly='2743' lrx='4757' lry='3021' rendition='Line' xml:id='facs_1_line_1617284823770_726'/>
+				<zone ulx='528' uly='3049' lrx='2769' lry='3314' rendition='Line' xml:id='facs_1_line_1616946126517_470'/>
+			</zone>
+			<zone ulx='389' uly='3317' lrx='4829' lry='5577' rendition='TextRegion' xml:id='facs_1_region_1616944781445_315'>
+				<zone ulx='1721' uly='3354' lrx='4538' lry='3665' rendition='Line' xml:id='facs_1_line_1616946132606_475'/>
+				<zone ulx='425' uly='3642' lrx='4781' lry='3953' rendition='Line' xml:id='facs_1_line_1616946140401_480'/>
+				<zone ulx='502' uly='3889' lrx='4387' lry='4220' rendition='Line' xml:id='facs_1_line_1616946154768_485'/>
+				<zone ulx='460' uly='4135' lrx='4518' lry='4481' rendition='Line' xml:id='facs_1_line_1616946161138_490'/>
+				<zone ulx='500' uly='4406' lrx='4708' lry='4660' rendition='Line' xml:id='facs_1_line_1616946167863_495'/>
+				<zone ulx='453' uly='4577' lrx='4741' lry='4987' rendition='Line' xml:id='facs_1_line_1616946174818_500'/>
+				<zone ulx='506' uly='4942' lrx='4604' lry='5308' rendition='Line' xml:id='facs_1_line_1616946181864_505'/>
+				<zone ulx='485' uly='5211' lrx='3870' lry='5557' rendition='Line' xml:id='facs_1_line_1616946187876_510'/>
+			</zone>
+			<zone ulx='1534' uly='5501' lrx='4693' lry='5959' rendition='TextRegion' xml:id='facs_1_region_1616944842645_320'>
+				<zone ulx='1573' uly='5525' lrx='4360' lry='5982' rendition='Line' xml:id='facs_1_line_1616946194856_515'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='5016' lry='6204'>
+			<graphic url='PKEL'2018.13.347._11b.tif' width='5016px' height='6204px'/>
+			<zone ulx='353' uly='144' lrx='4636' lry='1063' rendition='TextRegion' xml:id='facs_2_region_1617285432463_811'>
+				<zone ulx='525' uly='220' lrx='4592' lry='513' rendition='Line' xml:id='facs_2_line_1617285456780_815'/>
+				<zone ulx='525' uly='521' lrx='4528' lry='786' rendition='Line' xml:id='facs_2_line_1617285461718_820'/>
+				<zone ulx='533' uly='790' lrx='1959' lry='1056' rendition='Line' xml:id='facs_2_line_1617285465267_825'/>
+			</zone>
+			<zone ulx='448' uly='1051' lrx='4894' lry='2027' rendition='TextRegion' xml:id='facs_2_region_1616944909925_336'>
+				<zone ulx='1280' uly='1075' lrx='4637' lry='1405' rendition='Line' xml:id='facs_2_line_1616946253209_538'/>
+				<zone ulx='545' uly='1366' lrx='4659' lry='1657' rendition='Line' xml:id='facs_2_line_1616946260195_543'/>
+				<zone ulx='612' uly='1668' lrx='1415' lry='1989' rendition='Line' xml:id='facs_2_line_1616946264113_548'/>
+			</zone>
+			<zone ulx='1781' uly='1790' lrx='3628' lry='2268' rendition='TextRegion' xml:id='facs_2_region_1616944956305_343'>
+				<zone ulx='1846' uly='1838' lrx='3305' lry='2245' rendition='Line' xml:id='facs_2_line_1616946268807_553'/>
+			</zone>
+			<zone ulx='2394' uly='2206' lrx='4138' lry='2947' rendition='TextRegion' xml:id='facs_2_region_1616944994486_348'>
+				<zone ulx='2521' uly='2209' lrx='3872' lry='2584' rendition='Line' xml:id='facs_2_line_1617285627467_850'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1616944631249_267'>
+				<lb facs='#facs_1_line_1616945302081_385' n='N001'/>Editors:
+			</p>
+			<p facs='#facs_1_region_1616944638042_270'>
+				<lb facs='#facs_1_line_1616945307451_390' n='N001'/><persName>Paul Tabori</persName>
+			</p>
+			<p facs='#facs_1_region_1616944643713_273'>
+				<lb facs='#facs_1_line_1616945313008_395' n='N001'/><persName>Thomas Kabdebo</persName>
+			</p>
+			<p facs='#facs_1_region_1616944649634_276'>
+				<lb facs='#facs_1_line_1616945320915_400' n='N001'/><title>ANTHOLOGY OF HUNGARIAN POETRY </title>
+			</p>
+			<p facs='#facs_1_region_1616944654559_279'>
+				<lb facs='#facs_1_line_1616945327761_405' n='N001'/><title>IN ENGLISH TRANSLATION</title>
+			</p>
+			<p facs='#facs_1_region_1616944659970_282'>
+				<lb facs='#facs_1_line_1616945342682_410' n='N001'/>Secreteriat:
+			</p>
+			<p facs='#facs_1_region_1616944665028_285'>
+				<lb facs='#facs_1_line_1616945347132_415' n='N001'/>49A Woodlawn Rd.,
+			</p>
+			<p facs='#facs_1_region_1616944669577_288'>
+				<lb facs='#facs_1_line_1616945351214_420' n='N001'/>S. W. 6.
+			</p>
+			<p facs='#facs_1_region_1616944680895_294'>
+				<lb facs='#facs_1_line_1616946048407_430' n='N001'/><date month='0' year='0' day='0'>1972 jan 18-án.</date>
+			</p>
+			<p facs='#facs_1_region_1616944677061_291'>
+				<lb facs='#facs_1_line_1616946042545_425' n='N001'/>Kedves <persName>Laci bácsi</persName>,
+			</p>
+			<p facs='#facs_1_region_1616944732361_309'>
+				<lb facs='#facs_1_line_1616946055484_435' n='N001'/>Köszönöm leveled és a sokszor át¬
+				<lb facs='#facs_1_line_1616946061657_440' n='N002'/>sóhajtozott szöveget.
+			</p>
+			<p facs='#facs_1_region_1616944763933_312'>
+				<lb facs='#facs_1_line_1616946069207_445' n='N001'/>A <persName>Steiner</persName> és <persName>Arden</persName> féle fémondatot
+				<lb facs='#facs_1_line_1616946078197_450' n='N002'/>már annál is inkább bevettem, mert múlt
+				<lb facs='#facs_1_line_1616946085577_455' n='N003'/>szombaton <persName>Arden</persName>-nál voltam, aki emlegette
+				<lb facs='#facs_1_line_1617284823770_726' n='N004'/>a <hi rend='underlined:true; fontSize:0.0; kerning:0;'><title>Szarvas-fiú</title>t</hi>. <persName>Arden</persName>nel, egyébként, lefordítottuk
+				<lb facs='#facs_1_line_1616946126517_470' n='N005'/>a <hi rend='underlined:true; fontSize:0.0; kerning:0;'><title>Bánat-egy nagy óceán</title>t</hi>.
+			</p>
+			<p facs='#facs_1_region_1616944781445_315'>
+				<lb facs='#facs_1_line_1616946132606_475' n='N001'/>A különlenyomat javára közlöm
+				<lb facs='#facs_1_line_1616946140401_480' n='N002'/>(bocsánat) hogy <persName>David Wevitt</persName> nem <hi rend='underlined:true; fontSize:0.0; kerning:0;'>brit</hi> hanem
+				<lb facs='#facs_1_line_1616946154768_485' n='N003'/>canadai író. Ezt most vettem észre. <persName>Pali</persName>val
+				<lb facs='#facs_1_line_1616946161138_490' n='N004'/>egyeztettük másolatainkat, beillesztettük az általam
+				<lb facs='#facs_1_line_1616946167863_495' n='N005'/>lefordított és eszközölt javításokat, és rövidesen
+				<lb facs='#facs_1_line_1616946174818_500' n='N006'/>csináltatok majd az én példányomból neked
+				<lb facs='#facs_1_line_1616946181864_505' n='N007'/>is egy másolatot. Ebbe bejegyzem szerintem mit
+				<lb facs='#facs_1_line_1616946187876_510' n='N008'/>hallana szívesebben a mai ifjúság.
+			</p>
+			<p facs='#facs_1_region_1616944842645_320'>
+				<lb facs='#facs_1_line_1616946194856_515' n='N001'/>Az eddig számomra ismeretlen
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1617285432463_811'>
+				<lb facs='#facs_2_line_1617285456780_815' n='N001'/>bővítésekben két apróbb javítást eszközöltem, ami 
+				<lb facs='#facs_2_line_1617285461718_820' n='N002'/>csak angol fülnek szól, tehát nem is érdemes
+				<lb facs='#facs_2_line_1617285465267_825' n='N003'/>megjegyezned.
+			</p>
+			<p facs='#facs_2_region_1616944909925_336'>
+				<lb facs='#facs_2_line_1616946253209_538' n='N001'/>A tanulmány summa summárum remek, 
+				<lb facs='#facs_2_line_1616946260195_543' n='N002'/>de a fordítás sem méltatlan - <persName>Palink</persName> kitett
+				<lb facs='#facs_2_line_1616946264113_548' n='N003'/>magáért.
+			</p>
+			<p facs='#facs_2_region_1616944956305_343'>
+				<lb facs='#facs_2_line_1616946268807_553' n='N001'/>Ragaszkodással, 
+			</p>
+			<p facs='#facs_2_region_1616944994486_348'>
+				<lb facs='#facs_2_line_1617285627467_850' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'><persName>Tamás</persName></hi>
+			</p>
+		</body>
+	</text>
+</TEI>

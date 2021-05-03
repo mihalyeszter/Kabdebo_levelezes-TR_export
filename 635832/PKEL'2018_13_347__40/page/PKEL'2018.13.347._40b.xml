@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:36:47.505+01:00</Created>
+        <LastChange>2021-04-26T09:14:59.637+02:00</LastChange>
+        <TranskribusMetadata docId="635832" pageId="24864882" pageNr="2" tsid="57169897" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=KUCUKZLZUVTTUJKGXFARKKJA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGCHJTXKSHHYWFLEYRMVDLXC" imageId="19179825"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._40b.tif" imageWidth="3034" imageHeight="1860">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453609157" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617800338971_1760"/>
+                <RegionRefIndexed index="1" regionRef="region_1617800351941_1763"/>
+                <RegionRefIndexed index="2" regionRef="region_1617800363171_1772"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617800338971_1760" custom="readingOrder {index:0;}">
+            <Coords points="91,76 2986,45 2984,1189 91,1302"/>
+            <TextLine id="line_1617800390360_1778" custom="readingOrder {index:0;}">
+                <Coords points="170,83 2905,72 2921,305 163,283"/>
+                <Baseline points="166,246 2921,280"/>
+                <TextEquiv>
+                    <Unicode>a küldött borítékba (bélyeget, címátragasztót </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800394965_1783" custom="readingOrder {index:1;}">
+                <Coords points="168,288 2875,313 2885,437 170,450"/>
+                <Baseline points="168,427 2885,420"/>
+                <TextEquiv>
+                    <Unicode>is mellékelek) s küldd el címemre. Nem tudom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800400205_1788" custom="readingOrder {index:2;} textStyle {offset:8; length:23;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="194,463 2979,459 2982,627 189,624"/>
+                <Baseline points="193,592 2985,591"/>
+                <TextEquiv>
+                    <Unicode>valóban megjelent-e már e könyv - de ha nem, akkor </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800404345_1793" custom="readingOrder {index:3;}">
+                <Coords points="163,633 2982,632 2986,768 143,774"/>
+                <Baseline points="151,742 2982,759"/>
+                <TextEquiv>
+                    <Unicode>a megjelenéskor tedd meg ezt nekem. Árát csekk¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800409082_1798" custom="readingOrder {index:4;}">
+                <Coords points="109,781 2813,772 2821,926 120,946"/>
+                <Baseline points="120,941 2824,915"/>
+                <TextEquiv>
+                    <Unicode>ben küldöm, vagy nejem teszi ugyanezt, ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800414828_1803" custom="readingOrder {index:5;} sic {offset:28; length:14;}">
+                <Coords points="109,954 2889,938 2905,1103 100,1110"/>
+                <Baseline points="100,1105 2905,1098"/>
+                <TextEquiv>
+                    <Unicode>mire a könyv megérkezik már Dél-Amerikában </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617800419197_1808" custom="readingOrder {index:6;}">
+                <Coords points="200,1117 752,1125 748,1270 201,1257"/>
+                <Baseline points="201,1252 748,1265"/>
+                <TextEquiv>
+                    <Unicode>lennék.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a küldött borítékba (bélyeget, címátragasztót &#xD;
+is mellékelek) s küldd el címemre. Nem tudom&#xD;
+valóban megjelent-e már e könyv - de ha nem, akkor &#xD;
+a megjelenéskor tedd meg ezt nekem. Árát csekk¬&#xD;
+ben küldöm, vagy nejem teszi ugyanezt, ha&#xD;
+mire a könyv megérkezik már Dél-Amerikában &#xD;
+lennék.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617800351941_1763" custom="readingOrder {index:1;}">
+            <Coords points="679,1280 2898,1259 2901,1449 674,1484"/>
+            <TextLine id="line_1617800527006_1833" custom="readingOrder {index:0;}">
+                <Coords points="762,1285 2876,1283 2891,1445 693,1486"/>
+                <Baseline points="693,1481 2891,1440"/>
+                <TextEquiv>
+                    <Unicode>Sok meleg, de tiszteletteljes üdvözlettel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sok meleg, de tiszteletteljes üdvözlettel,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617800363171_1772" custom="readingOrder {index:2;}">
+            <Coords points="1813,1468 2933,1451 2937,1685 1818,1685"/>
+            <TextLine id="line_1617800429482_1813" custom="readingOrder {index:0;} textStyle {offset:0; length:13;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1833,1473 2896,1462 2903,1661 1862,1656"/>
+                <Baseline points="1862,1619 2903,1624"/>
+                <TextEquiv>
+                    <Unicode>Kabdebó Tamás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kabdebó Tamás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:35:58.082+01:00</Created>
+        <LastChange>2021-04-21T10:30:45.947+02:00</LastChange>
+        <TranskribusMetadata docId="635816" pageId="24864846" pageNr="2" tsid="56899236" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=TQICAYZQWNGWJUYJSZNFWLTG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MDTZCMBQIHJANKHOXSPJJAGF" imageId="19179789"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._26b.tif" imageWidth="3404" imageHeight="2191">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453614614" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617642235044_1302"/>
+                <RegionRefIndexed index="1" regionRef="region_1617642248953_1305"/>
+                <RegionRefIndexed index="2" regionRef="region_1617642251948_1308"/>
+                <RegionRefIndexed index="3" regionRef="region_1617642255704_1311"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617642235044_1302" custom="readingOrder {index:0;}">
+            <Coords points="1986,251 3072,224 3062,62 1967,70"/>
+            <TextLine id="line_1617642338654_1319" custom="readingOrder {index:0;} date {offset:0; length:14;year:0; day:0; month:0;}">
+                <Coords points="2043,91 2989,78 2994,210 2018,229"/>
+                <Baseline points="2013,178 2994,205"/>
+                <TextEquiv>
+                    <Unicode>1977 jún 13-án</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1977 jún 13-án</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617642248953_1305" custom="readingOrder {index:1;}">
+            <Coords points="183,83 1910,81 1954,291 1954,294 3321,256 3335,1875 124,1908"/>
+            <TextLine id="line_1617642343181_1324" custom="readingOrder {index:0;} persName {offset:0; length:10;}">
+                <Coords points="281,108 1897,121 1902,234 254,264"/>
+                <Baseline points="254,259 1902,229"/>
+                <TextEquiv>
+                    <Unicode>Laci bácsi, nem tudom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642348706_1329" custom="readingOrder {index:1;} placeName {offset:0; length:5;}">
+                <Coords points="243,275 3256,272 3245,478 216,481"/>
+                <Baseline points="262,489 3240,424"/>
+                <TextEquiv>
+                    <Unicode>Svájcban soggiornó-zol-e (még); telefonod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642353372_1334" custom="readingOrder {index:2;}">
+                <Coords points="216,529 3240,410 3200,621 224,656"/>
+                <Baseline points="254,648 3200,616"/>
+                <TextEquiv>
+                    <Unicode>nem felelt, kerestelek többször. Szükségem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642360038_1339" custom="readingOrder {index:3;} textStyle {offset:10; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="232,675 3229,632 3221,810 251,832"/>
+                <Baseline points="251,827 3221,805"/>
+                <TextEquiv>
+                    <Unicode>lenne egy Beszélgetések kötetre mihamarabb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642364872_1344" custom="readingOrder {index:4;}">
+                <Coords points="213,824 3191,805 3178,1010 245,1010"/>
+                <Baseline points="245,1005 3183,972"/>
+                <TextEquiv>
+                    <Unicode>Remélem rendben vagy, tagjaid nem rakon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642369995_1349" custom="readingOrder {index:5;} persName {offset:23; length:11;}">
+                <Coords points="229,1005 3172,972 3154,1164 254,1191"/>
+                <Baseline points="254,1186 3154,1159"/>
+                <TextEquiv>
+                    <Unicode>cátlankodnak. Itt járt Fenyő Panni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642374189_1354" custom="readingOrder {index:6;} persName {offset:21; length:5;}">
+                <Coords points="208,1178 3308,1178 3283,1413 218,1332"/>
+                <Baseline points="218,1327 3264,1356"/>
+                <TextEquiv>
+                    <Unicode>siratta hűlt helyed, Gzőzővel vigasztaltunk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642379049_1359" custom="readingOrder {index:7;}">
+                <Coords points="207,1344 3234,1376 3278,1527 862,1600 416,1516 208,1508"/>
+                <Baseline points="245,1543 3224,1494"/>
+                <TextEquiv>
+                    <Unicode>Itt reménytelen ősz van, álmaimban az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642383785_1364" custom="readingOrder {index:8;} placeName {offset:0; length:14;}">
+                <Coords points="240,1546 956,1597 3283,1522 3313,1691 248,1692"/>
+                <Baseline points="297,1686 3313,1686"/>
+                <TextEquiv>
+                    <Unicode>Amazonas folyón vadászok kajmánokra. Álom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617642388336_1369" custom="readingOrder {index:9;}">
+                <Coords points="153,1719 3275,1671 3289,1864 172,1895"/>
+                <Baseline points="208,1859 3289,1859"/>
+                <TextEquiv>
+                    <Unicode>ez, a valóságban bicegek egy lábujjinfekcióval.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Laci bácsi, nem tudom&#xD;
+Svájcban soggiornó-zol-e (még); telefonod&#xD;
+nem felelt, kerestelek többször. Szükségem&#xD;
+lenne egy Beszélgetések kötetre mihamarabb.&#xD;
+Remélem rendben vagy, tagjaid nem rakon-&#xD;
+cátlankodnak. Itt járt Fenyő Panni,&#xD;
+siratta hűlt helyed, Gzőzővel vigasztaltunk.&#xD;
+Itt reménytelen ősz van, álmaimban az&#xD;
+Amazonas folyón vadászok kajmánokra. Álom&#xD;
+ez, a valóságban bicegek egy lábujjinfekcióval.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617642251948_1308" custom="readingOrder {index:2;}">
+            <Coords points="1670,1897 2283,1927 2283,2067 1678,2067"/>
+            <TextLine id="line_1617642392292_1374" custom="readingOrder {index:0;}">
+                <Coords points="1688,1898 2224,1923 2213,2032 1759,2032"/>
+                <Baseline points="1759,2027 2213,2027"/>
+                <TextEquiv>
+                    <Unicode>Híved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Híved</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617642255704_1311" custom="readingOrder {index:3;}">
+            <Coords points="2362,2121 3202,2097 3213,1894 2364,1910"/>
+            <TextLine id="line_1617642402695_1379" custom="readingOrder {index:0;} placeName {offset:0; length:5;}">
+                <Coords points="2383,1937 3071,1894 3083,2067 2418,2072"/>
+                <Baseline points="2418,2067 3083,2062"/>
+                <TextEquiv>
+                    <Unicode>Tamás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tamás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

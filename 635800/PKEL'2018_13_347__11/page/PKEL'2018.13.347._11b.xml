@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-19T21:35:15.431+01:00</Created>
+        <LastChange>2021-04-21T09:30:55.206+02:00</LastChange>
+        <TranskribusMetadata docId="635800" pageId="24864812" pageNr="2" tsid="56897405" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=VFLCYKSGYCHAZSNNQNHBOOLO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YGBBBBGXWKJQQTXDQREEBEEV" imageId="19179755"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2018.13.347._11b.tif" imageWidth="5016" imageHeight="6204">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619453607300" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617285432463_811"/>
+                <RegionRefIndexed index="1" regionRef="region_1616944909925_336"/>
+                <RegionRefIndexed index="2" regionRef="region_1616944956305_343"/>
+                <RegionRefIndexed index="3" regionRef="region_1616944994486_348"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617285432463_811" custom="readingOrder {index:0;}">
+            <Coords points="353,152 4608,144 4636,1035 377,1063"/>
+            <TextLine id="line_1617285456780_815" custom="readingOrder {index:0;}">
+                <Coords points="525,220 4592,236 4556,513 558,485"/>
+                <Baseline points="594,429 4540,485"/>
+                <TextEquiv>
+                    <Unicode>bővítésekben két apróbb javítást eszközöltem, ami </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617285461718_820" custom="readingOrder {index:1;}">
+                <Coords points="525,521 4520,533 4528,731 730,786"/>
+                <Baseline points="626,682 4528,726"/>
+                <TextEquiv>
+                    <Unicode>csak angol fülnek szól, tehát nem is érdemes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617285465267_825" custom="readingOrder {index:2;}">
+                <Coords points="533,790 1959,806 1642,1008 583,1056"/>
+                <Baseline points="614,935 1617,975"/>
+                <TextEquiv>
+                    <Unicode>megjegyezned.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bővítésekben két apróbb javítást eszközöltem, ami &#xD;
+csak angol fülnek szól, tehát nem is érdemes&#xD;
+megjegyezned.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616944909925_336" custom="readingOrder {index:1;}">
+            <Coords points="534,1203 576,1160 804,1078 4857,1051 4894,1952 3384,1698 448,2027"/>
+            <TextLine id="line_1616946253209_538" custom="readingOrder {index:0;}">
+                <Coords points="1280,1075 4637,1107 4636,1368 1655,1405 1469,1324 1291,1354"/>
+                <Baseline points="1241,1351 4595,1329"/>
+                <TextEquiv>
+                    <Unicode>A tanulmány summa summárum remek, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616946260195_543" custom="readingOrder {index:1;} persName {offset:30; length:6;}">
+                <Coords points="603,1366 4659,1374 4658,1620 545,1657"/>
+                <Baseline points="621,1615 4658,1615"/>
+                <TextEquiv>
+                    <Unicode>de a fordítás sem méltatlan - Palink kitett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616946264113_548" custom="readingOrder {index:2;}">
+                <Coords points="612,1680 1415,1668 1345,1915 630,1989"/>
+                <Baseline points="666,1873 1344,1864"/>
+                <TextEquiv>
+                    <Unicode>magáért.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A tanulmány summa summárum remek, &#xD;
+de a fordítás sem méltatlan - Palink kitett&#xD;
+magáért.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616944956305_343" custom="readingOrder {index:2;}">
+            <Coords points="1781,2268 3628,2252 3346,1790 1806,1854"/>
+            <TextLine id="line_1616946268807_553" custom="readingOrder {index:0;}">
+                <Coords points="1846,1866 3195,1838 3305,2211 1863,2245"/>
+                <Baseline points="1950,2168 3186,2119"/>
+                <TextEquiv>
+                    <Unicode>Ragaszkodással, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ragaszkodással, </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616944994486_348" custom="readingOrder {index:3;}">
+            <Coords points="2394,2219 4104,2206 4138,2927 2395,2947"/>
+            <TextLine id="line_1617285627467_850" custom="readingOrder {index:0;} textStyle {offset:0; length:5;underlined:true; fontSize:0.0; kerning:0;} persName {offset:0; length:5;}">
+                <Coords points="2521,2209 3862,2209 3872,2584 2582,2577"/>
+                <Baseline points="2582,2572 3872,2579"/>
+                <TextEquiv>
+                    <Unicode>Tamás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tamás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

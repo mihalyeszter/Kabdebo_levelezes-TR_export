@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.13.347._14</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3173' lry='4985'>
+			<graphic url='PKEL'2018.13.347._14a.tif' width='3173px' height='4985px'/>
+			<zone ulx='1626' uly='160' lrx='2865' lry='416' rendition='TextRegion' xml:id='facs_1_region_1617266837303_388'>
+				<zone ulx='1678' uly='198' lrx='2831' lry='399' rendition='Line' xml:id='facs_1_line_1617266918308_402'/>
+			</zone>
+			<zone ulx='1677' uly='421' lrx='2690' lry='626' rendition='TextRegion' xml:id='facs_1_region_1617266839976_391'>
+				<zone ulx='1703' uly='416' lrx='2592' lry='582' rendition='Line' xml:id='facs_1_line_1617266921942_407'/>
+			</zone>
+			<zone ulx='2207' uly='621' lrx='2933' lry='893' rendition='TextRegion' xml:id='facs_1_region_1617266655986_349'>
+				<zone ulx='2224' uly='648' lrx='2921' lry='887' rendition='Line' xml:id='facs_1_line_1617266932736_417'/>
+			</zone>
+			<zone ulx='631' uly='630' lrx='2043' lry='945' rendition='TextRegion' xml:id='facs_1_region_1617266660216_352'>
+				<zone ulx='663' uly='668' lrx='2007' lry='930' rendition='Line' xml:id='facs_1_line_1617266927688_412'/>
+			</zone>
+			<zone ulx='302' uly='968' lrx='2967' lry='3492' rendition='TextRegion' xml:id='facs_1_region_1617266690532_361'>
+				<zone ulx='1070' uly='1003' lrx='2724' lry='1237' rendition='Line' xml:id='facs_1_line_1617266936948_422'/>
+				<zone ulx='347' uly='1212' lrx='2781' lry='1468' rendition='Line' xml:id='facs_1_line_1617266941967_427'/>
+				<zone ulx='355' uly='1430' lrx='2911' lry='1677' rendition='Line' xml:id='facs_1_line_1617266947031_432'/>
+				<zone ulx='379' uly='1695' lrx='2706' lry='1948' rendition='Line' xml:id='facs_1_line_1617266952073_437'/>
+				<zone ulx='411' uly='1942' lrx='2825' lry='2229' rendition='Line' xml:id='facs_1_line_1617266956874_442'/>
+				<zone ulx='386' uly='2164' lrx='2944' lry='2442' rendition='Line' xml:id='facs_1_line_1617266961954_447'/>
+				<zone ulx='445' uly='2443' lrx='2871' lry='2717' rendition='Line' xml:id='facs_1_line_1617266966051_452'/>
+				<zone ulx='398' uly='2673' lrx='2912' lry='2873' rendition='Line' xml:id='facs_1_line_1617266984624_457'/>
+				<zone ulx='432' uly='2934' lrx='2850' lry='3142' rendition='Line' xml:id='facs_1_line_1617266990035_462'/>
+				<zone ulx='415' uly='3139' lrx='2679' lry='3446' rendition='Line' xml:id='facs_1_line_1617266996442_467'/>
+			</zone>
+			<zone ulx='293' uly='3402' lrx='2989' lry='4607' rendition='TextRegion' xml:id='facs_1_region_1617266703335_364'>
+				<zone ulx='1097' uly='3428' lrx='2952' lry='3621' rendition='Line' xml:id='facs_1_line_1617267007150_472'/>
+				<zone ulx='379' uly='3647' lrx='2961' lry='3875' rendition='Line' xml:id='facs_1_line_1617267012176_477'/>
+				<zone ulx='367' uly='3826' lrx='2956' lry='4140' rendition='Line' xml:id='facs_1_line_1617267017059_482'/>
+				<zone ulx='362' uly='4095' lrx='2860' lry='4343' rendition='Line' xml:id='facs_1_line_1617267022628_487'/>
+				<zone ulx='414' uly='4343' lrx='2712' lry='4561' rendition='Line' xml:id='facs_1_line_1617267027505_492'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3184' lry='4971'>
+			<graphic url='PKEL'2018.13.347._14b.tif' width='3184px' height='4971px'/>
+			<zone ulx='259' uly='96' lrx='2997' lry='3142' rendition='TextRegion' xml:id='facs_2_region_1617266736090_372'>
+				<zone ulx='369' uly='127' lrx='2543' lry='400' rendition='Line' xml:id='facs_2_line_1617267047861_500'/>
+				<zone ulx='399' uly='326' lrx='2902' lry='580' rendition='Line' xml:id='facs_2_line_1617267052586_505'/>
+				<zone ulx='416' uly='594' lrx='2795' lry='874' rendition='Line' xml:id='facs_2_line_1617267056850_510'/>
+				<zone ulx='386' uly='861' lrx='2757' lry='1111' rendition='Line' xml:id='facs_2_line_1617267061101_515'/>
+				<zone ulx='425' uly='1054' lrx='2880' lry='1335' rendition='Line' xml:id='facs_2_line_1617267065489_520'/>
+				<zone ulx='399' uly='1323' lrx='2994' lry='1639' rendition='Line' xml:id='facs_2_line_1617267069643_525'/>
+				<zone ulx='383' uly='1595' lrx='2655' lry='1890' rendition='Line' xml:id='facs_2_line_1617267073520_530'/>
+				<zone ulx='371' uly='1779' lrx='2817' lry='2189' rendition='Line' xml:id='facs_2_line_1617267078197_535'/>
+				<zone ulx='471' uly='2035' lrx='2883' lry='2349' rendition='Line' xml:id='facs_2_line_1617267082832_540'/>
+				<zone ulx='411' uly='2339' lrx='2966' lry='2616' rendition='Line' xml:id='facs_2_line_1617267087692_545'/>
+				<zone ulx='389' uly='2573' lrx='2981' lry='2881' rendition='Line' xml:id='facs_2_line_1617267092371_550'/>
+				<zone ulx='379' uly='2780' lrx='2730' lry='3083' rendition='Line' xml:id='facs_2_line_1617267096942_555'/>
+			</zone>
+			<zone ulx='821' uly='3075' lrx='2934' lry='3428' rendition='TextRegion' xml:id='facs_2_region_1617266745799_375'>
+				<zone ulx='881' uly='3093' lrx='2861' lry='3378' rendition='Line' xml:id='facs_2_line_1617267102168_560'/>
+			</zone>
+			<zone ulx='1259' uly='3359' lrx='2769' lry='3939' rendition='TextRegion' xml:id='facs_2_region_1617266750308_378'>
+				<zone ulx='1342' uly='3370' lrx='2658' lry='3879' rendition='Line' xml:id='facs_2_line_1617267107365_565'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1617266837303_388'>
+				<lb facs='#facs_1_line_1617266918308_402' n='N001'/>13 Landcross Rd
+			</p>
+			<p facs='#facs_1_region_1617266839976_391'>
+				<lb facs='#facs_1_line_1617266921942_407' n='N001'/><placeName>Manchester</placeName> 14.
+			</p>
+			<p facs='#facs_1_region_1617266655986_349'>
+				<lb facs='#facs_1_line_1617266932736_417' n='N001'/><date month='0' year='0' day='0'>nov. 8-án.</date>
+			</p>
+			<p facs='#facs_1_region_1617266660216_352'>
+				<lb facs='#facs_1_line_1617266927688_412' n='N001'/>Kedves <persName>Laci bácsi</persName>!
+			</p>
+			<p facs='#facs_1_region_1617266690532_361'>
+				<lb facs='#facs_1_line_1617266936948_422' n='N001'/><persName>Tábori Pali</persName> említette
+				<lb facs='#facs_1_line_1617266941967_427' n='N002'/>telefonon, hogy <placeName>római</placeName> vakációd
+				<lb facs='#facs_1_line_1617266947031_432' n='N003'/>elején ismét megbetegedtél s vissza
+				<lb facs='#facs_1_line_1617266952073_437' n='N004'/>kellett jönnöd ködös <placeName>Albion</placeName>ba.
+				<lb facs='#facs_1_line_1617266956874_442' n='N005'/>Engem a hírek, jók, rosszak
+				<lb facs='#facs_1_line_1617266961954_447' n='N006'/>egyaránt csak akkor érnek utól ha
+				<lb facs='#facs_1_line_1617266966051_452' n='N007'/>a hétvégét <placeName>London</placeName>ban töltöm
+				<lb facs='#facs_1_line_1617266984624_457' n='N008'/>családommal, egyébként a <placeName>manchesteri</placeName> 
+				<lb facs='#facs_1_line_1617266990035_462' n='N009'/><orgName>egyetem</orgName>en könyvtároskodom s a 
+				<lb facs='#facs_1_line_1617266996442_467' n='N010'/>fenti cím a legénylakásom.
+			</p>
+			<p facs='#facs_1_region_1617266703335_364'>
+				<lb facs='#facs_1_line_1617267007150_472' n='N001'/>Talán mire ez a levél
+				<lb facs='#facs_1_line_1617267012176_477' n='N002'/>odaér hozzád már talpra is álltál,
+				<lb facs='#facs_1_line_1617267017059_482' n='N003'/>de ha még ne<add><gap />m</add>, szívből kívánom, 
+				<lb facs='#facs_1_line_1617267022628_487' n='N004'/>hgy ez mielőbb bekövetkezzék.
+				<lb facs='#facs_1_line_1617267027505_492' n='N005'/>Mint mindent most ezt is
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1617266736090_372'>
+				<lb facs='#facs_2_line_1617267047861_500' n='N001'/>késve, esti olvasmányként 
+				<lb facs='#facs_2_line_1617267052586_505' n='N002'/>lapozgatni kezdtem az <orgName>Új Látóhatár</orgName>
+				<lb facs='#facs_2_line_1617267056850_510' n='N003'/>legutolsó számát melyből meg¬
+				<lb facs='#facs_2_line_1617267061101_515' n='N004'/>tudtam, hogy a TERMÉSZET TE
+				<lb facs='#facs_2_line_1617267065489_520' n='N005'/>VAGY - illetve az angol festők?
+				<lb facs='#facs_2_line_1617267069643_525' n='N006'/><placeName>Manchesterben</placeName> jó Gallériák vannak
+				<lb facs='#facs_2_line_1617267073520_530' n='N007'/>sőt helybeli festők is, amit
+				<lb facs='#facs_2_line_1617267078197_535' n='N008'/>igen csodálok: hogy inspirálhat
+				<lb facs='#facs_2_line_1617267082832_540' n='N009'/>az állandó szürkeség festése?
+				<lb facs='#facs_2_line_1617267087692_545' n='N010'/>De az angol csodálatos nép, talán
+				<lb facs='#facs_2_line_1617267092371_550' n='N011'/>még <add><gap />a</add> jelenlegi lassú polgárhabor<hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>u</hi><add>ú</add>t
+				<lb facs='#facs_2_line_1617267096942_555' n='N012'/>és gazdasági vál<add><gap />s</add>ágot is túléli.
+			</p>
+			<p facs='#facs_2_region_1617266745799_375'>
+				<lb facs='#facs_2_line_1617267102168_560' n='N001'/>Minden jót kíván, régi híved,
+			</p>
+			<p facs='#facs_2_region_1617266750308_378'>
+				<lb facs='#facs_2_line_1617267107365_565' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'><persName>Kabdebó Tamás</persName></hi>
+			</p>
+		</body>
+	</text>
+</TEI>
